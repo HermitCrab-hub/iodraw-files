@@ -52,10 +52,10 @@
           <mxGeometry x="10" y="120" width="150" height="61.01" as="geometry" />
         </mxCell>
         <mxCell id="WE6-K44Y9cg56-QYpfKH-22" value="东营" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="670" width="260" height="260" as="geometry" />
+          <mxGeometry x="510" y="710" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="WE6-K44Y9cg56-QYpfKH-23" value="叶阳" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WE6-K44Y9cg56-QYpfKH-22">
-          <mxGeometry x="55" y="50" width="175" height="190" as="geometry" />
+          <mxGeometry x="42.5" y="50" width="175" height="190" as="geometry" />
         </mxCell>
         <mxCell id="WE6-K44Y9cg56-QYpfKH-24" value="职责：项目负责人" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WE6-K44Y9cg56-QYpfKH-23">
           <mxGeometry x="10" y="30" width="150" height="30" as="geometry" />
