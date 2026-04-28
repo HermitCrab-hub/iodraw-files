@@ -76,7 +76,7 @@
           <mxGeometry x="515" y="1050" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="WE6-K44Y9cg56-QYpfKH-31" value="曾祥峰" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WE6-K44Y9cg56-QYpfKH-30">
-          <mxGeometry x="35" y="40" width="201.03" height="201" as="geometry" />
+          <mxGeometry x="35" y="40" width="190.52" height="201" as="geometry" />
         </mxCell>
         <mxCell id="WE6-K44Y9cg56-QYpfKH-32" value="职责：项目负责人" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WE6-K44Y9cg56-QYpfKH-31">
           <mxGeometry x="10" y="30" width="150" height="30" as="geometry" />
