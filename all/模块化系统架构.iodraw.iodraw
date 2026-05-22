@@ -40,13 +40,16 @@
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-9" value="开放API接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-5">
           <mxGeometry x="30" y="50" width="480" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zbuFoiLFa6h5oyWUa9QT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zbuFoiLFa6h5oyWUa9QT-3" target="zbuFoiLFa6h5oyWUa9QT-8">
+        <mxCell id="zbuFoiLFa6h5oyWUa9QT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="zbuFoiLFa6h5oyWUa9QT-3" target="zbuFoiLFa6h5oyWUa9QT-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="750" />
               <mxPoint x="500" y="430" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zbuFoiLFa6h5oyWUa9QT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zbuFoiLFa6h5oyWUa9QT-4" target="zbuFoiLFa6h5oyWUa9QT-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
