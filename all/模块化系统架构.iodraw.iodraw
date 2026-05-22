@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;whl&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="610" y="560" width="410" height="200" as="geometry" />
+          <mxGeometry x="630" y="590" width="410" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-2" value="将硬件SDK二次编写编写打包为可直接pip安装的whl文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-1">
           <mxGeometry x="10" y="50" width="390" height="60" as="geometry" />
