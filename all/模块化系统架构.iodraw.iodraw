@@ -22,8 +22,8 @@
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-8" value="相机检测" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="270" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zbuFoiLFa6h5oyWUa9QT-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="zbuFoiLFa6h5oyWUa9QT-9" value="开放API接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
