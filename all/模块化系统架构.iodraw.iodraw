@@ -20,7 +20,7 @@
           <mxGeometry x="520" y="220" width="560" height="350" as="geometry" />
         </mxCell>
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-8" value="相机检测" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-5">
-          <mxGeometry x="20" y="130" width="200" height="180" as="geometry" />
+          <mxGeometry x="30" y="130" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-10" value="偏移、掉件、错件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-8">
           <mxGeometry x="10" y="30" width="180" height="50" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="10" y="110" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-13" value="雷达检测" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-5">
-          <mxGeometry x="300" y="70" width="200" height="180" as="geometry" />
+          <mxGeometry x="310" y="130" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-14" value="偏移、掉件、错件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-13">
           <mxGeometry x="10" y="30" width="180" height="50" as="geometry" />
@@ -37,8 +37,8 @@
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-15" value="配置数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-13">
           <mxGeometry x="10" y="110" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zbuFoiLFa6h5oyWUa9QT-9" value="开放API接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="90" width="180" height="40" as="geometry" />
+        <mxCell id="zbuFoiLFa6h5oyWUa9QT-9" value="开放API接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-5">
+          <mxGeometry x="40" y="50" width="470" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
