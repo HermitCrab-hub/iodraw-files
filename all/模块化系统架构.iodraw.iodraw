@@ -19,8 +19,8 @@
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-5" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;核心业务算法&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="600" y="250" width="470" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="zbuFoiLFa6h5oyWUa9QT-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="zbuFoiLFa6h5oyWUa9QT-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
