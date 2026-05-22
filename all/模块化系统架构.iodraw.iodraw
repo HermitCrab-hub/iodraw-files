@@ -40,8 +40,9 @@
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-9" value="开放API接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-5">
           <mxGeometry x="30" y="50" width="480" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zbuFoiLFa6h5oyWUa9QT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="zbuFoiLFa6h5oyWUa9QT-3" target="zbuFoiLFa6h5oyWUa9QT-8">
+        <mxCell id="zbuFoiLFa6h5oyWUa9QT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="zbuFoiLFa6h5oyWUa9QT-3">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1780" as="targetPoint" />
             <Array as="points">
               <mxPoint x="480" y="2100" />
               <mxPoint x="480" y="1780" />
