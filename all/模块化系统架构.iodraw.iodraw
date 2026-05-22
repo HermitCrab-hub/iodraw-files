@@ -16,8 +16,8 @@
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-4" value="M2000P雷达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-1">
           <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zbuFoiLFa6h5oyWUa9QT-5" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;核心业务算法&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="230" width="470" height="210" as="geometry" />
+        <mxCell id="zbuFoiLFa6h5oyWUa9QT-5" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;核心业务算法&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="470" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
