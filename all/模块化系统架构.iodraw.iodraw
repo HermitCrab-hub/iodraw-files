@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;whl&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="640" y="600" width="410" height="200" as="geometry" />
+          <mxGeometry x="620" y="1950" width="410" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-2" value="将硬件SDK二次编写编写打包为可直接pip安装的whl文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-1">
           <mxGeometry x="10" y="50" width="390" height="60" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-5" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;核心业务算法&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="570" y="210" width="560" height="350" as="geometry" />
+          <mxGeometry x="550" y="1560" width="560" height="350" as="geometry" />
         </mxCell>
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-8" value="相机检测" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-5">
           <mxGeometry x="30" y="130" width="200" height="180" as="geometry" />
@@ -43,13 +43,18 @@
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="zbuFoiLFa6h5oyWUa9QT-3" target="zbuFoiLFa6h5oyWUa9QT-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="750" />
-              <mxPoint x="500" y="430" />
+              <mxPoint x="480" y="2100" />
+              <mxPoint x="480" y="1780" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zbuFoiLFa6h5oyWUa9QT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zbuFoiLFa6h5oyWUa9QT-4" target="zbuFoiLFa6h5oyWUa9QT-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zbuFoiLFa6h5oyWUa9QT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="zbuFoiLFa6h5oyWUa9QT-4" target="zbuFoiLFa6h5oyWUa9QT-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="2100" />
+              <mxPoint x="1170" y="1780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
