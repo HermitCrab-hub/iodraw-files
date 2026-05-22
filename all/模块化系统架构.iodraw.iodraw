@@ -25,8 +25,8 @@
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-10" value="偏移、掉件、错件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-8">
           <mxGeometry x="10" y="30" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zbuFoiLFa6h5oyWUa9QT-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-8">
-          <mxGeometry x="10" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="zbuFoiLFa6h5oyWUa9QT-12" value="配置数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-8">
+          <mxGeometry x="10" y="110" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-9" value="开放API接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="90" width="180" height="40" as="geometry" />
