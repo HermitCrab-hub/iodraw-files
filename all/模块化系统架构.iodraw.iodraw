@@ -13,7 +13,7 @@
         <mxCell id="zbuFoiLFa6h5oyWUa9QT-3" value="海康相机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-1">
           <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zbuFoiLFa6h5oyWUa9QT-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-1">
+        <mxCell id="zbuFoiLFa6h5oyWUa9QT-4" value="M2000P雷达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbuFoiLFa6h5oyWUa9QT-1">
           <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
