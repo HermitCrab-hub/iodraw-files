@@ -846,7 +846,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-176" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-176" value="PLM" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="792" y="11560" width="318" height="690" as="geometry" />
         </mxCell>
       </root>
