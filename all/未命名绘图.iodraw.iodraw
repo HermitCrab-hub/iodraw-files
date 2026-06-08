@@ -850,10 +850,10 @@
           <mxGeometry x="670" y="11570" width="210" height="490" as="geometry" />
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-177" value="BOM管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-176">
-          <mxGeometry x="26" y="70" width="160" height="70" as="geometry" />
+          <mxGeometry x="26" y="70" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-178" value="变更管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-176">
-          <mxGeometry x="23" y="170" width="160" height="70" as="geometry" />
+          <mxGeometry x="23" y="170" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-179" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-176">
           <mxGeometry x="26" y="280" width="160" height="70" as="geometry" />
