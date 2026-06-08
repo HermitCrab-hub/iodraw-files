@@ -900,10 +900,22 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-200" value="流程管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-199">
           <mxGeometry x="26" y="70" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-201" value="日常办公" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-199">
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-201" value="日常办公" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-199">
           <mxGeometry x="25" y="120" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-202" value="移动办公" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-199">
+          <mxGeometry x="26" y="180" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-203" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;OA&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="11590" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-204" value="流程管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-203">
+          <mxGeometry x="26" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-205" value="日常办公" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-203">
+          <mxGeometry x="25" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-206" value="移动办公" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-203">
           <mxGeometry x="26" y="180" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
