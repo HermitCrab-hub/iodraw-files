@@ -1038,27 +1038,6 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-256" value="工单备件推荐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-250">
           <mxGeometry x="195.5" y="180" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-257" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;中控展示&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="12390" width="365.5" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-258" value="工单模板管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-257">
-          <mxGeometry x="26" y="70" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-259" value="工单计划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-257">
-          <mxGeometry x="25" y="120" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-260" value="设备管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-257">
-          <mxGeometry x="26" y="180" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-261" value="PE/PM工单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-257">
-          <mxGeometry x="195.5" y="70" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-262" value="备件管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-257">
-          <mxGeometry x="195.5" y="120" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-263" value="工单备件推荐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-257">
-          <mxGeometry x="195.5" y="180" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-264" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;产品纠错&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="1860" y="12390" width="365.5" height="230" as="geometry" />
         </mxCell>
@@ -1082,24 +1061,6 @@
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-271" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;机器人拼图轨迹工艺参数&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="1470" y="12390" width="365.5" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-272" value="工单模板管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-271">
-          <mxGeometry x="26" y="70" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-273" value="工单计划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-271">
-          <mxGeometry x="25" y="120" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-274" value="设备管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-271">
-          <mxGeometry x="26" y="180" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-275" value="PE/PM工单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-271">
-          <mxGeometry x="195.5" y="70" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-276" value="备件管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-271">
-          <mxGeometry x="195.5" y="120" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-277" value="工单备件推荐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-271">
-          <mxGeometry x="195.5" y="180" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
