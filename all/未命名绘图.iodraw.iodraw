@@ -883,7 +883,7 @@
           <mxGeometry x="410" y="125" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-193" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;PLM&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="910" y="11780" width="210" height="290" as="geometry" />
+          <mxGeometry x="910" y="11780" width="210" height="240" as="geometry" />
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-194" value="计划管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-193">
           <mxGeometry x="26" y="70" width="160" height="30" as="geometry" />
@@ -893,9 +893,6 @@
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-196" value="资源管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-193">
           <mxGeometry x="26" y="180" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-197" value="协同开发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-193">
-          <mxGeometry x="26" y="240" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
