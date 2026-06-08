@@ -1017,8 +1017,8 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-238" value="工单备件推荐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-227">
           <mxGeometry x="195.5" y="180" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-250" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;FMS&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1144.5" y="11840" width="365.5" height="230" as="geometry" />
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-250" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;机器人健康度&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="670" y="12390" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-251" value="工单模板管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-250">
           <mxGeometry x="26" y="70" width="160" height="30" as="geometry" />
