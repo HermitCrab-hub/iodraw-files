@@ -867,8 +867,8 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-186" value="采购管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-181">
           <mxGeometry x="10" y="70" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-187" value="采购管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="930" y="11660" width="160" height="30" as="geometry" />
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-187" value="计划控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-181">
+          <mxGeometry x="10" y="125" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
