@@ -975,7 +975,7 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-225" value="维修管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-223">
           <mxGeometry x="25" y="120" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-226" value="能源分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-223">
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-226" value="设备管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-223">
           <mxGeometry x="26" y="180" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
