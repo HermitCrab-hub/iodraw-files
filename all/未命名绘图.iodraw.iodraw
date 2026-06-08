@@ -852,7 +852,7 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-177" value="BOM管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-176">
           <mxGeometry x="26" y="70" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-178" value="BOM管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-176">
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-178" value="变更管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-176">
           <mxGeometry x="23" y="170" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
