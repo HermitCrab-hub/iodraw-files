@@ -858,8 +858,8 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-179" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-176">
           <mxGeometry x="26" y="280" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-180" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="876" y="11850" width="160" height="70" as="geometry" />
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-180" value="协同开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-176">
+          <mxGeometry x="23" y="390" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
