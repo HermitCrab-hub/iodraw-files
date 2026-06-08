@@ -1074,7 +1074,7 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-268" value="治具孔位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-264">
           <mxGeometry x="195.5" y="70" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-269" value="治具上短下次" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-264">
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-269" value="治具长短" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-264">
           <mxGeometry x="195.5" y="120" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-270" value="工单备件推荐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-264">
