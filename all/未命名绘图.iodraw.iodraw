@@ -937,7 +937,7 @@
           <mxGeometry x="26" y="180" width="264" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-239" value="生产过程与快捷报工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-211">
-          <mxGeometry x="26" y="120" width="264" height="30" as="geometry" />
+          <mxGeometry x="26" y="80" width="264" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-215" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;QMS&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="1520" y="11830" width="210" height="240" as="geometry" />
@@ -995,6 +995,9 @@
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-238" value="工单备件推荐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-227">
           <mxGeometry x="195.5" y="180" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-240" value="生产过程与快捷报工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="706" y="12200" width="264" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
