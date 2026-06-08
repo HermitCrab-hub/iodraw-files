@@ -993,6 +993,9 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-238" value="工单备件推荐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-227">
           <mxGeometry x="195.5" y="180" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-239" value="追溯管理（人、机、料、法、环）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="706" y="12300" width="264" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
