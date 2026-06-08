@@ -954,6 +954,18 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-218" value="售后质量管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-215">
           <mxGeometry x="26" y="180" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-219" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;EMS&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="11830" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-220" value="质量体系管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-219">
+          <mxGeometry x="26" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-221" value="制造质量管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-219">
+          <mxGeometry x="25" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-222" value="售后质量管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-219">
+          <mxGeometry x="26" y="180" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
