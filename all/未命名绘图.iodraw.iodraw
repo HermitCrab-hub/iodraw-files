@@ -945,7 +945,7 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-215" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;QMS&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="1153" y="11830" width="210" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="z1hF5QSPwazbQEeoPt7K-216" value="计划管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-215">
+        <mxCell id="z1hF5QSPwazbQEeoPt7K-216" value="质量体系管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-215">
           <mxGeometry x="26" y="70" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-217" value="自动排程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z1hF5QSPwazbQEeoPt7K-215">
