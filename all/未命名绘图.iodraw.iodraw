@@ -549,6 +549,221 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-271" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;机器人拼图轨迹工艺参数&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" parent="1" vertex="1">
           <mxGeometry x="1470" y="12390" width="365.5" height="230" as="geometry" />
         </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-1" value="现场设备群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="630" y="13010" width="332" height="802" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-2" value="生产执行设备&#xa;▸ 工业机器人、数控机床、涂装设备、装配线&#xa;▸ 输出：运行状态、加工数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-1">
+          <mxGeometry x="48" y="43" width="252" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-3" value="感知检测设备&#xa;▸ 温度/压力/振动传感器、扫码枪、RFID、激光雷达&#xa;▸ 输出：模拟量/数字量信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-1">
+          <mxGeometry x="48" y="230" width="253" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-4" value="物流仓储设备&#xa;▸ AGV/RGV、立体库、输送机、叉车&#xa;▸ 输出：位置、状态、货物信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-1">
+          <mxGeometry x="46" y="416" width="257" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-5" value="辅助动力设备&#xa;▸ 空压机、水泵、配电柜、空调系统&#xa;▸ 输出：压力、流量、能耗数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-1">
+          <mxGeometry x="48" y="621" width="253" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-6" value="设备控制系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1012" y="12894" width="330" height="1034" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-7" value="PLC/DCS 可编程逻辑控制器&#xa;▸ 核心参数：扫描周期、IO点数、程序步数&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-6">
+          <mxGeometry x="46" y="43" width="255" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-8" value="机器人控制器&#xa;▸ 核心参数：轴位置、速度、扭矩、报警代码&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-6">
+          <mxGeometry x="47" y="212" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-9" value="视觉控制器&#xa;▸ 核心参数：图像分辨率、帧率、处理时间&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-6">
+          <mxGeometry x="47" y="381" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-10" value="AGV调度器&#xa;▸ 核心参数：AGV位置、速度、任务状态、电量&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-6">
+          <mxGeometry x="48" y="550" width="250" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-11" value="变频器&#xa;▸ 核心参数：输出频率、电流、电压、运行状态&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-6">
+          <mxGeometry x="47" y="719" width="253" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-12" value="伺服驱动器&#xa;▸ 核心参数：位置偏差、转速、扭矩、报警代码&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-6">
+          <mxGeometry x="47" y="888" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-13" value="边缘计算系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1392" y="12716" width="328" height="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-14" value="SCADA 数据采集与监控&#xa;▸ 核心参数：IO信号值、寄存器地址、报警代码&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-13">
+          <mxGeometry x="46" y="43" width="251" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-15" value="中控展示系统&#xa;▸ 核心参数：产线状态、设备运行率、异常报警&#xa;▸ 数据周期：秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-13">
+          <mxGeometry x="46" y="212" width="253" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-16" value="机器人健康度系统&#xa;▸ 核心参数：关节温度、振动值、负载率、剩余寿命&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-13">
+          <mxGeometry x="46" y="381" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-17" value="机器人拼图轨迹工艺参数系统&#xa;▸ 核心参数：X/Y/Z坐标、速度、加速度、轨迹精度&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-13">
+          <mxGeometry x="46" y="550" width="252" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-18" value="产品纠错系统&#xa;▸ 核心参数：错件数、倾斜角度、治具偏差、缺陷类型&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-13">
+          <mxGeometry x="46" y="737" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-19" value="实时数据库 InfluxDB&#xa;▸ 核心参数：数据写入速率、查询延迟、存储容量&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-13">
+          <mxGeometry x="46" y="906" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-20" value="边缘网关&#xa;▸ 核心参数：协议类型、数据转发率、在线状态&#xa;▸ 数据周期：秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-13">
+          <mxGeometry x="46" y="1075" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-21" value="视觉检测系统&#xa;▸ 核心参数：识别准确率、检测速度、误检率&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-13">
+          <mxGeometry x="46" y="1244" width="253" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-22" value="制造支撑系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1769" y="12809" width="328" height="1203" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-23" value="APS 高级计划排程&#xa;▸ 核心参数：排程周期、资源利用率、交期达成率&#xa;▸ 数据周期：小时级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-22">
+          <mxGeometry x="46" y="43" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-24" value="FMS 柔性制造系统&#xa;▸ 核心参数：工单模板ID、设备利用率、换型时间&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-22">
+          <mxGeometry x="46" y="212" width="251" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-25" value="QMS 质量管理系统&#xa;▸ 核心参数：检验单号、合格数、不合格数、CPK&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-22">
+          <mxGeometry x="46" y="381" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-26" value="EMS 能源管理系统&#xa;▸ 核心参数：电/水/气消耗量、单位产品能耗&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-22">
+          <mxGeometry x="46" y="550" width="253" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-27" value="EAM 资产管理系统&#xa;▸ 核心参数：设备编码、保养周期、故障停机时间&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-22">
+          <mxGeometry x="46" y="719" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-28" value="WMS(车间级) 线边库管理&#xa;▸ 核心参数：线边库位、物料数量、拉动单号&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-22">
+          <mxGeometry x="46" y="888" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-29" value="HSE 安全环保管理&#xa;▸ 核心参数：安全事故数、环保排放值、隐患数&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-22">
+          <mxGeometry x="46" y="1057" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-30" value="MES核心执行系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2147" y="12640" width="329" height="1542" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-31" value="生产过程与报工&#xa;▸ 核心参数：工单ID、工序号、报工数量、工时&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-30">
+          <mxGeometry x="47" y="43" width="250" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-32" value="订单与工单管理&#xa;▸ 核心参数：生产订单号、工单状态、优先级&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-30">
+          <mxGeometry x="46" y="212" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-33" value="全要素追溯&#xa;▸ 核心参数：批次号、SN码、人/机/料/法/环&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-30">
+          <mxGeometry x="46" y="381" width="254" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-34" value="生产总览看板&#xa;▸ 核心参数：当日产量、计划达成率、异常数&#xa;▸ 数据周期：秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-30">
+          <mxGeometry x="46" y="550" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-35" value="涂装质量管理&#xa;▸ 核心参数：膜厚、光泽度、色差、附着力&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-30">
+          <mxGeometry x="46" y="719" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-36" value="设备与能耗管理&#xa;▸ 核心参数：设备状态、电流、电压、能耗&#xa;▸ 数据周期：秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-30">
+          <mxGeometry x="46" y="888" width="253" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-37" value="工单进度看板&#xa;▸ 核心参数：工单完成率、剩余工时、瓶颈工序&#xa;▸ 数据周期：秒级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-30">
+          <mxGeometry x="46" y="1057" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-38" value="质量分析看板&#xa;▸ 核心参数：不良率、不良类型、Top3缺陷&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-30">
+          <mxGeometry x="46" y="1226" width="253" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-39" value="物料与辅料管理&#xa;▸ 核心参数：物料批次、线边库存、缺料预警&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-30">
+          <mxGeometry x="46" y="1396" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-40" value="企业决策层系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2526" y="12725" width="328" height="1373" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-41" value="PLM 产品全生命周期管理&#xa;▸ 核心参数：BOM版本号、变更单号、项目ID&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-40">
+          <mxGeometry x="46" y="43" width="251" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-42" value="ERP 企业资源计划&#xa;▸ 核心参数：物料编码、订单号、成本中心&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-40">
+          <mxGeometry x="46" y="212" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-43" value="OA 办公自动化&#xa;▸ 核心参数：流程ID、审批节点、待办数&#xa;▸ 数据周期：小时级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-40">
+          <mxGeometry x="47" y="381" width="250" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-44" value="SRM 供应商关系管理&#xa;▸ 核心参数：供应商编码、采购单号、交期&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-40">
+          <mxGeometry x="46" y="550" width="253" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-45" value="WMS(企业级) 仓储管理&#xa;▸ 核心参数：仓库编码、库位号、库存数量&#xa;▸ 数据周期：小时级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-40">
+          <mxGeometry x="46" y="719" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-46" value="CRM 客户关系管理&#xa;▸ 核心参数：客户ID、销售单号、售后单号&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-40">
+          <mxGeometry x="47" y="888" width="250" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-47" value="BI 商业智能决策&#xa;▸ 核心参数：OEE、良品率、产能利用率&#xa;▸ 数据周期：日/周/月级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-40">
+          <mxGeometry x="48" y="1057" width="248" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-48" value="SCP 供应链计划协同&#xa;▸ 核心参数：需求预测、安全库存、交期达成率&#xa;▸ 数据周期：周/月级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-40">
+          <mxGeometry x="46" y="1226" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-49" value="【第5层】企业决策与管理层&#xa;战略级·非实时·T+1~T+7" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2904" y="13369" width="244" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-50" value="【第4层】制造运营与执行层&#xa;车间级·准实时·T+1s~T+1h" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2904" y="14272" width="244" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-51" value="【第3层】边缘计算与控制层&#xa;产线级·实时·T+10ms~T+1s" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2902" y="14446" width="247" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-52" value="【第2层】设备控制层&#xa;设备级·毫秒级·T+1ms~T+10ms" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2898" y="14620" width="257" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-53" value="【第1层】现场设备与感知层&#xa;物理层·实时·T+0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2904" y="14777" width="244" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-54" value="下发：主计划/BOM/工艺文件/采购订单" style="curved=1;startArrow=none;endArrow=block;exitX=0.48;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-49" target="QjLCJGUDKnhB0ejbT7Qt-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2918" y="14227" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-55" value="上报：生产实绩/库存/质量/成本数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0;entryX=0.52;entryY=1;rounded=0;" edge="1" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-50" target="QjLCJGUDKnhB0ejbT7Qt-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3134" y="14227" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-56" value="下发：生产指令/工艺参数/作业任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-50" target="QjLCJGUDKnhB0ejbT7Qt-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2917" y="14401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-57" value="上报：设备状态/生产数据/质量数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0;entryX=0.71;entryY=1;rounded=0;" edge="1" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-51" target="QjLCJGUDKnhB0ejbT7Qt-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3135" y="14401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-58" value="下发：控制指令/运动参数/IO信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-51" target="QjLCJGUDKnhB0ejbT7Qt-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2919" y="14575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-59" value="上报：传感器数据/设备运行数据/报警信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.71;entryY=1;rounded=0;" edge="1" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-52" target="QjLCJGUDKnhB0ejbT7Qt-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3133" y="14575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-60" value="电气信号连接" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-52" target="QjLCJGUDKnhB0ejbT7Qt-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2962" y="14740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-61" value="物理驱动与反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0;entryX=0.63;entryY=1;rounded=0;" edge="1" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-53" target="QjLCJGUDKnhB0ejbT7Qt-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3090" y="14740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
