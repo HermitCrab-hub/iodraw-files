@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ieKee9OZjVi-8Sutqdau">
-    <mxGraphModel dx="4870" dy="2903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
+    <mxGraphModel dx="4174" dy="2489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,6 +226,9 @@
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-5" value="辅助动力设备&#xa;▸ 空压机、水泵、配电柜、空调系统&#xa;▸ 输出：压力、流量、能耗数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="QjLCJGUDKnhB0ejbT7Qt-1">
           <mxGeometry x="48" y="621" width="253" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QjLCJGUDKnhB0ejbT7Qt-1" source="QjLCJGUDKnhB0ejbT7Qt-1" target="QjLCJGUDKnhB0ejbT7Qt-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-6" value="设备控制系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="5442" y="1944" width="330" height="1034" as="geometry" />
