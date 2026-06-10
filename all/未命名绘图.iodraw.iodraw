@@ -208,9 +208,6 @@
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-22" value="制造支撑系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="6389" y="3531" width="328" height="1203" as="geometry" />
         </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-23" value="APS 高级计划排程&#xa;▸ 核心参数：排程周期、资源利用率、交期达成率&#xa;▸ 数据周期：小时级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-22" vertex="1">
-          <mxGeometry x="46" y="43" width="252" height="119" as="geometry" />
-        </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-24" value="FMS 柔性制造系统&#xa;▸ 核心参数：工单模板ID、设备利用率、换型时间&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-22" vertex="1">
           <mxGeometry x="46" y="212" width="251" height="119" as="geometry" />
         </mxCell>
@@ -767,6 +764,9 @@
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-117" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#999999;rotation=-180;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-86">
           <mxGeometry x="32.26" y="370" width="1360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-23" value="APS 高级计划排程&#xa;▸ 核心参数：排程周期、资源利用率、交期达成率&#xa;▸ 数据周期：小时级" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="4702" y="3470" width="279" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
