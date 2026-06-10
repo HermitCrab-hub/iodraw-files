@@ -206,10 +206,7 @@
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-6" value="设备控制系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="6140" y="2150" width="330" height="1034" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-8" value="机器人控制器&#xa;▸ 核心参数：轴位置、速度、扭矩、报警代码&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-6" vertex="1">
-          <mxGeometry x="47" y="212" width="252" height="119" as="geometry" />
+          <mxGeometry x="6130" y="2160" width="330" height="1034" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-9" value="视觉控制器&#xa;▸ 核心参数：图像分辨率、帧率、处理时间&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-6" vertex="1">
           <mxGeometry x="47" y="381" width="252" height="119" as="geometry" />
@@ -581,6 +578,9 @@
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-7" value="PLC/DCS 可编程逻辑控制器&#xa;▸ 核心参数：扫描周期、IO点数、程序步数&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="4780" y="2340" width="255" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-8" value="机器人控制器&#xa;▸ 核心参数：轴位置、速度、扭矩、报警代码&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="4790" y="2490" width="252" height="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
