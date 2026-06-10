@@ -205,27 +205,6 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-271" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;机器人拼图轨迹工艺参数&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" parent="1" vertex="1">
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-22" value="制造支撑系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="6711" y="2781" width="328" height="1203" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-24" value="FMS 柔性制造系统&#xa;▸ 核心参数：工单模板ID、设备利用率、换型时间&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-22" vertex="1">
-          <mxGeometry x="46" y="212" width="251" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-25" value="QMS 质量管理系统&#xa;▸ 核心参数：检验单号、合格数、不合格数、CPK&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-22" vertex="1">
-          <mxGeometry x="46" y="381" width="252" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-26" value="EMS 能源管理系统&#xa;▸ 核心参数：电/水/气消耗量、单位产品能耗&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-22" vertex="1">
-          <mxGeometry x="46" y="550" width="253" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-27" value="EAM 资产管理系统&#xa;▸ 核心参数：设备编码、保养周期、故障停机时间&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-22" vertex="1">
-          <mxGeometry x="46" y="719" width="252" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-28" value="WMS(车间级) 线边库管理&#xa;▸ 核心参数：线边库位、物料数量、拉动单号&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-22" vertex="1">
-          <mxGeometry x="46" y="888" width="252" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-29" value="HSE 安全环保管理&#xa;▸ 核心参数：安全事故数、环保排放值、隐患数&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-22" vertex="1">
-          <mxGeometry x="46" y="1057" width="252" height="119" as="geometry" />
-        </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-30" value="MES核心执行系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="8317" y="240" width="329" height="1542" as="geometry" />
         </mxCell>
@@ -670,7 +649,7 @@
           <mxGeometry x="21" y="248" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-86" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;制造支撑系统群&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;" vertex="1" parent="1">
-          <mxGeometry x="4965" y="3591" width="1661" height="371" as="geometry" />
+          <mxGeometry x="4804.5" y="3601" width="1661" height="371" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-87" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;APS&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-86">
           <mxGeometry x="40" y="78" width="200" height="252" as="geometry" />
