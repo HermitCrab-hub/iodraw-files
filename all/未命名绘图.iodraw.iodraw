@@ -657,7 +657,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-70" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;机器人工艺参数调优&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
           <mxGeometry x="301" y="211" width="240" height="298" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-71" value="PLC、SCADA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-70">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-71" value="机器人轨迹仿真展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-70">
           <mxGeometry x="20" y="50" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-72" value="IO信号值" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-70">
