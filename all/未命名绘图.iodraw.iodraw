@@ -702,7 +702,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-60" value="全局通告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-53">
           <mxGeometry x="719" y="58" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-61" value="全局通告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-53">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-61" value="机器人状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-53">
           <mxGeometry x="897" y="58" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
