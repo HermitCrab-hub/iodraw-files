@@ -772,7 +772,7 @@
           <mxGeometry x="26" y="180" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-222" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;PLM&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-173">
-          <mxGeometry x="947" y="63" width="210" height="443" as="geometry" />
+          <mxGeometry x="948" y="64" width="210" height="443" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-223" value="BOM管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-222">
           <mxGeometry x="25" y="66" width="160" height="30" as="geometry" />
@@ -781,10 +781,10 @@
           <mxGeometry x="25" y="108" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-225" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-222">
-          <mxGeometry x="26" y="310" width="160" height="30" as="geometry" />
+          <mxGeometry x="25" y="156" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-226" value="协同开发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-222">
-          <mxGeometry x="25" y="400" width="160" height="30" as="geometry" />
+          <mxGeometry x="25" y="204" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
