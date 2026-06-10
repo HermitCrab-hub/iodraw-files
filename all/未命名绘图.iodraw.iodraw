@@ -513,8 +513,8 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-52" value="流量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-50">
           <mxGeometry x="20" y="90" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-89" value="流量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-1">
-          <mxGeometry x="950" y="462" width="160" height="18" as="geometry" />
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-89" value="能耗数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-50">
+          <mxGeometry x="20" y="130" width="160" height="18" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-5" value="辅助动力设备&#xa;▸ 空压机、水泵、配电柜、空调系统&#xa;▸ 输出：压力、流量、能耗数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="5860" y="1657" width="253" height="154" as="geometry" />
