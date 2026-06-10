@@ -206,7 +206,7 @@
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-13" value="边缘计算系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="4549" y="2189" width="328" height="1390" as="geometry" />
+          <mxGeometry x="4540" y="2200" width="328" height="1390" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-14" value="SCADA 数据采集与监控&#xa;▸ 核心参数：IO信号值、寄存器地址、报警代码&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
           <mxGeometry x="42" y="381" width="251" height="119" as="geometry" />
@@ -227,7 +227,10 @@
           <mxGeometry x="46" y="1244" width="253" height="119" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-16" value="机器人健康度系统&#xa;▸ 核心参数：关节温度、振动值、负载率、剩余寿命&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
-          <mxGeometry x="50" y="228" width="252" height="119" as="geometry" />
+          <mxGeometry x="47" y="1085" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-20" value="边缘网关&#xa;▸ 核心参数：协议类型、数据转发率、在线状态&#xa;▸ 数据周期：秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
+          <mxGeometry x="50" y="225" width="252" height="119" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-22" value="制造支撑系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="7939" y="409" width="328" height="1203" as="geometry" />
@@ -590,9 +593,6 @@
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#999999;rotation=-180;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-91">
           <mxGeometry x="32.26" y="370" width="1360" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-20" value="边缘网关&#xa;▸ 核心参数：协议类型、数据转发率、在线状态&#xa;▸ 数据周期：秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="4250" y="2703" width="252" height="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
