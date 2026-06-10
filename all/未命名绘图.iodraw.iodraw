@@ -511,7 +511,7 @@
           <mxGeometry x="20" y="130" width="160" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-91" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;设备控制系统群&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;" parent="1" vertex="1">
-          <mxGeometry x="5090" y="2390" width="980" height="470" as="geometry" />
+          <mxGeometry x="5090" y="2390" width="980" height="630" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-93" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;可编程逻辑控制器&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
           <mxGeometry x="40" y="80" width="210" height="370" as="geometry" />
@@ -526,7 +526,7 @@
           <mxGeometry x="20" y="192" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-93">
-          <mxGeometry x="10" y="150" width="180" height="190" as="geometry" />
+          <mxGeometry x="10" y="230" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-102" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;感知检测设备&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
           <mxGeometry x="270" y="78" width="200" height="252" as="geometry" />
