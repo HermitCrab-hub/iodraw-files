@@ -661,7 +661,7 @@
           <mxGeometry x="20" y="204" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-125" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;MES&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;" vertex="1" parent="1">
-          <mxGeometry x="3207" y="4792" width="1317" height="321" as="geometry" />
+          <mxGeometry x="3343" y="4742" width="1317" height="321" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-127" value="生产过程与报工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
           <mxGeometry x="40" y="88" width="211" height="50" as="geometry" />
@@ -715,7 +715,7 @@
           <mxGeometry x="31" y="308" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-173" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;企业决策层系统群&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;" vertex="1" parent="1">
-          <mxGeometry x="3050" y="5233" width="1177" height="552" as="geometry" />
+          <mxGeometry x="3263" y="5237" width="1177" height="408" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-179" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;ERP&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-173">
           <mxGeometry x="21" y="62" width="421" height="328" as="geometry" />
