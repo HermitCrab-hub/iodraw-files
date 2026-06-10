@@ -206,7 +206,7 @@
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-22" value="制造支撑系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="7680" y="1336" width="328" height="1203" as="geometry" />
+          <mxGeometry x="6736" y="2962" width="328" height="1203" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-23" value="APS 高级计划排程&#xa;▸ 核心参数：排程周期、资源利用率、交期达成率&#xa;▸ 数据周期：小时级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-22" vertex="1">
           <mxGeometry x="46" y="43" width="252" height="119" as="geometry" />
