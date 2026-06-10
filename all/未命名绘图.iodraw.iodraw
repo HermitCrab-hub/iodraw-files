@@ -751,7 +751,7 @@
           <mxGeometry x="20" y="204" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-125" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;MES&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;" vertex="1" parent="1">
-          <mxGeometry x="4865" y="3585" width="1661" height="470" as="geometry" />
+          <mxGeometry x="4808" y="3589" width="1661" height="470" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-127" value="生产过程与报工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
           <mxGeometry x="40" y="88" width="211" height="50" as="geometry" />
@@ -780,7 +780,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-167" value="追溯管理（人、机、料、法、环）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
           <mxGeometry x="628" y="265" width="211" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-168" value="设备与能耗管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-168" value="消耗预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
           <mxGeometry x="944" y="274" width="211" height="50" as="geometry" />
         </mxCell>
       </root>
