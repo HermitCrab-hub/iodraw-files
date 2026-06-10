@@ -206,7 +206,7 @@
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-22" value="制造支撑系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="6452" y="2886" width="328" height="1203" as="geometry" />
+          <mxGeometry x="6711" y="2781" width="328" height="1203" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-24" value="FMS 柔性制造系统&#xa;▸ 核心参数：工单模板ID、设备利用率、换型时间&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-22" vertex="1">
           <mxGeometry x="46" y="212" width="251" height="119" as="geometry" />
