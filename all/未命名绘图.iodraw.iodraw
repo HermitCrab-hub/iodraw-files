@@ -209,10 +209,10 @@
           <mxGeometry x="4549" y="2189" width="328" height="1390" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-14" value="SCADA 数据采集与监控&#xa;▸ 核心参数：IO信号值、寄存器地址、报警代码&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
-          <mxGeometry x="46" y="43" width="251" height="119" as="geometry" />
+          <mxGeometry x="42" y="381" width="251" height="119" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-15" value="中控展示系统&#xa;▸ 核心参数：产线状态、设备运行率、异常报警&#xa;▸ 数据周期：秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
-          <mxGeometry x="46" y="212" width="253" height="119" as="geometry" />
+          <mxGeometry x="50" y="59" width="253" height="119" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-17" value="机器人拼图轨迹工艺参数系统&#xa;▸ 核心参数：X/Y/Z坐标、速度、加速度、轨迹精度&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
           <mxGeometry x="46" y="550" width="252" height="137" as="geometry" />
@@ -223,11 +223,11 @@
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-19" value="实时数据库 InfluxDB&#xa;▸ 核心参数：数据写入速率、查询延迟、存储容量&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
           <mxGeometry x="46" y="906" width="252" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-20" value="边缘网关&#xa;▸ 核心参数：协议类型、数据转发率、在线状态&#xa;▸ 数据周期：秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
-          <mxGeometry x="46" y="1075" width="252" height="119" as="geometry" />
-        </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-21" value="视觉检测系统&#xa;▸ 核心参数：识别准确率、检测速度、误检率&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
           <mxGeometry x="46" y="1244" width="253" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-16" value="机器人健康度系统&#xa;▸ 核心参数：关节温度、振动值、负载率、剩余寿命&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
+          <mxGeometry x="50" y="228" width="252" height="119" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-22" value="制造支撑系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="7939" y="409" width="328" height="1203" as="geometry" />
@@ -591,8 +591,8 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#999999;rotation=-180;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-91">
           <mxGeometry x="32.26" y="370" width="1360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-16" value="机器人健康度系统&#xa;▸ 核心参数：关节温度、振动值、负载率、剩余寿命&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="4273" y="2588" width="252" height="119" as="geometry" />
+        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-20" value="边缘网关&#xa;▸ 核心参数：协议类型、数据转发率、在线状态&#xa;▸ 数据周期：秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="4250" y="2703" width="252" height="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
