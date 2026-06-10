@@ -657,7 +657,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-80" value="机器人维护预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-76">
           <mxGeometry x="21" y="248" width="197" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-81" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;视觉检测系统&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-81" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;视觉检测系统集群&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
           <mxGeometry x="875" y="211" width="240" height="298" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-82" value="治具纠错系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-81">
