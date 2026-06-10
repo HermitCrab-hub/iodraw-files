@@ -456,11 +456,20 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-21" value="RFID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-18">
           <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-22" value="装配线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-18">
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-22" value="激光雷达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-18">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-3" value="感知检测设备&#xa;▸ 温度/压力/振动传感器、扫码枪、RFID、激光雷达&#xa;▸ 输出：模拟量/数字量信号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="5390" y="1690" width="253" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-23" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;输出&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="5150" y="2140" width="200" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-24" value="运行状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-23">
+          <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-25" value="加工数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-23">
+          <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
