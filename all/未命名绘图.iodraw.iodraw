@@ -732,6 +732,21 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-183" value="发布管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-179">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-174" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;APS&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-179">
+          <mxGeometry x="209" y="54" width="200" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-175" value="自动排程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-174">
+          <mxGeometry x="20" y="54" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-176" value="计划管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-174">
+          <mxGeometry x="20" y="108" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-177" value="资源管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-174">
+          <mxGeometry x="20" y="156" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-178" value="交期达成率预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-174">
+          <mxGeometry x="20" y="209" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-184" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;QMS&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-173">
           <mxGeometry x="500" y="78" width="200" height="252" as="geometry" />
         </mxCell>
@@ -800,21 +815,6 @@
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-206" value="智能隐患预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-203">
           <mxGeometry x="20" y="204" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-174" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;APS&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="2603" y="5338" width="200" height="252" as="geometry" />
-        </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-175" value="自动排程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-174">
-          <mxGeometry x="20" y="54" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-176" value="计划管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-174">
-          <mxGeometry x="20" y="108" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-177" value="资源管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-174">
-          <mxGeometry x="20" y="156" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-178" value="交期达成率预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-174">
-          <mxGeometry x="20" y="209" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
