@@ -519,10 +519,10 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-94" value="PLC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-93" vertex="1">
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-95" value="数控机床" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-93" vertex="1">
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-95" value="DCS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-93" vertex="1">
           <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-96" value="涂装设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-93" vertex="1">
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-96" value="SCADA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-93" vertex="1">
           <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-97" value="装配线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-93" vertex="1">
