@@ -696,8 +696,11 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-58" value="工单任务状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-53">
           <mxGeometry x="373" y="58" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-59" value="工单任务状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-53">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-59" value="产线实时监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-53">
           <mxGeometry x="546" y="58" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-60" value="产线实时监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="5534" y="3475" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
