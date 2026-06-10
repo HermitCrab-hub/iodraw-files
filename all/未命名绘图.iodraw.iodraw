@@ -756,7 +756,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-114" value="物流管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-111">
           <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-115" value="伺服驱动程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-111">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-115" value="库位管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-111">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
