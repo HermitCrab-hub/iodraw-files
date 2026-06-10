@@ -591,7 +591,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-19" value="&lt;font color=&quot;#46827c&quot; style=&quot;font-size: 23px;&quot;&gt;毫秒级&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-91">
           <mxGeometry x="673.63" y="410" width="77.25" height="75.71" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#999999;rotation=-180;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-91">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=4;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#999999;rotation=-180;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-91">
           <mxGeometry x="32.26" y="370" width="1360" height="20" as="geometry" />
         </mxCell>
       </root>
