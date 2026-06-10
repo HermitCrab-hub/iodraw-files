@@ -690,10 +690,10 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-91" value="" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-86">
           <mxGeometry x="270" y="78" width="200" height="252" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-92" value="轴位置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-91">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-91">
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-93" value="速度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-91">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-91">
           <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-94" value="扭矩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-91">
@@ -761,9 +761,6 @@
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-115" value="伺服驱动程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-111">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-23" value="APS 高级计划排程&#xa;▸ 核心参数：排程周期、资源利用率、交期达成率&#xa;▸ 数据周期：小时级" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="4702" y="3470" width="279" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
