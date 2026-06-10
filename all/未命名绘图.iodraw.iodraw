@@ -723,7 +723,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-180" value="采购管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-179">
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-181" value="工单管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-179">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-181" value="人力资源管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-179">
           <mxGeometry x="20" y="121" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-182" value="模板管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-179">
