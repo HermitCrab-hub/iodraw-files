@@ -591,10 +591,10 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-16" value="转速" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-14">
           <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-17" value="运行状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-14">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-17" value="扭矩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-14">
           <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-18" value="变频控制程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-14">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-18" value="伺服驱动程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-14">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
