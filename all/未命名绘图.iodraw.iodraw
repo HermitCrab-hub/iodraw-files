@@ -477,7 +477,7 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-36" value="立体库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-34">
           <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-37" value="RFID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-34">
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-37" value="输送机、叉车" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-34">
           <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-38" value="激光雷达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-34">
