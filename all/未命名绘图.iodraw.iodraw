@@ -206,13 +206,7 @@
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-13" value="边缘计算系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="4528" y="2694" width="328" height="1390" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-14" value="SCADA 数据采集与监控&#xa;▸ 核心参数：IO信号值、寄存器地址、报警代码&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
-          <mxGeometry x="42" y="381" width="251" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-17" value="机器人拼图轨迹工艺参数系统&#xa;▸ 核心参数：X/Y/Z坐标、速度、加速度、轨迹精度&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
-          <mxGeometry x="46" y="550" width="252" height="137" as="geometry" />
+          <mxGeometry x="4548" y="2248" width="328" height="1390" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-18" value="产品纠错系统&#xa;▸ 核心参数：错件数、倾斜角度、治具偏差、缺陷类型&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
           <mxGeometry x="46" y="737" width="252" height="119" as="geometry" />
