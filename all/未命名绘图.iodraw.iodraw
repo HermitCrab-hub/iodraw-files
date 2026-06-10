@@ -517,7 +517,7 @@
           <mxGeometry x="5621" y="2617" width="1143" height="885" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-26" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;逻辑控制器数据采集监控&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
-          <mxGeometry x="19" y="211" width="240" height="298" as="geometry" />
+          <mxGeometry x="23.5" y="82" width="240" height="298" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-27" value="PLC、SCADA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-26">
           <mxGeometry x="20" y="50" width="197" height="30" as="geometry" />
@@ -535,7 +535,7 @@
           <mxGeometry x="20" y="250" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-53" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;中控展示系统&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
-          <mxGeometry x="19" y="539" width="1092" height="105" as="geometry" />
+          <mxGeometry x="23.5" y="410" width="1092" height="105" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-56" value="产线状态&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2019px%3B%26quot%3B%26gt%3B%E5%8F%AF%E7%BC%96%E7%A8%8B%E9%80%BB%E8%BE%91%E6%8E%A7%E5%88%B6%E5%99%A8%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstartSize%3D40%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%224958%22%20y%3D%222993%22%20width%3D%22200%22%20height%3D%22252%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%E6%89%AB%E6%8F%8F%E5%91%A8%E6%9C%9F%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%2220%22%20y%3D%2262%22%20width%3D%22160%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22IO%E7%82%B9%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%2220%22%20y%3D%22122%22%20width%3D%22160%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%E9%80%BB%E8%BE%91%E6%8E%A7%E5%88%B6%E7%A8%8B%E5%BA%8F%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%2220%22%20y%3D%22192%22%20width%3D%22160%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-53">
           <mxGeometry x="27" y="58" width="160" height="30" as="geometry" />
@@ -556,7 +556,7 @@
           <mxGeometry x="897" y="58" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-70" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;机器人工艺参数调优&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
-          <mxGeometry x="301" y="211" width="240" height="298" as="geometry" />
+          <mxGeometry x="305.5" y="82" width="240" height="298" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-71" value="机器人轨迹仿真展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-70">
           <mxGeometry x="20" y="50" width="197" height="30" as="geometry" />
@@ -571,7 +571,7 @@
           <mxGeometry x="21" y="248" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-76" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;机器人健康度&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
-          <mxGeometry x="588" y="211" width="240" height="298" as="geometry" />
+          <mxGeometry x="592.5" y="82" width="240" height="298" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-77" value="机器人实时数据监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-76">
           <mxGeometry x="20" y="50" width="197" height="30" as="geometry" />
@@ -586,7 +586,7 @@
           <mxGeometry x="21" y="248" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-81" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;视觉检测系统集群&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
-          <mxGeometry x="875" y="211" width="240" height="298" as="geometry" />
+          <mxGeometry x="879.5" y="82" width="240" height="298" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-82" value="治具纠错系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-81">
           <mxGeometry x="20" y="50" width="197" height="30" as="geometry" />
