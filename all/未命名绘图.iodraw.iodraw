@@ -720,7 +720,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-101" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;EMS&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-86">
           <mxGeometry x="740" y="78" width="200" height="252" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-102" value="AGV位置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-101">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-102" value="能源计划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-101">
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-103" value="速度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-101">
