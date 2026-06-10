@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ieKee9OZjVi-8Sutqdau">
-    <mxGraphModel dx="1744" dy="1244" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2047" dy="1244" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,7 +206,7 @@
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-13" value="边缘计算系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="7462" y="2492" width="328" height="1390" as="geometry" />
+          <mxGeometry x="6547" y="2362" width="328" height="1390" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-14" value="SCADA 数据采集与监控&#xa;▸ 核心参数：IO信号值、寄存器地址、报警代码&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
           <mxGeometry x="46" y="43" width="251" height="119" as="geometry" />
