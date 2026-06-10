@@ -498,17 +498,8 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-89" value="能耗数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-50" vertex="1">
           <mxGeometry x="20" y="130" width="160" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-11" value="变频器&#xa;▸ 核心参数：输出频率、电流、电压、运行状态&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="Q_ooFaU4p2ys1R512pKY-1" vertex="1">
-          <mxGeometry x="590" y="520" width="253" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-10" value="AGV调度器&#xa;▸ 核心参数：AGV位置、速度、任务状态、电量&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="Q_ooFaU4p2ys1R512pKY-1" vertex="1">
-          <mxGeometry x="260" y="520" width="250" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-12" value="伺服驱动器&#xa;▸ 核心参数：位置偏差、转速、扭矩、报警代码&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="Q_ooFaU4p2ys1R512pKY-1" vertex="1">
-          <mxGeometry x="856.75" y="523" width="252" height="119" as="geometry" />
-        </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-91" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;设备控制系统群&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;" parent="1" vertex="1">
-          <mxGeometry x="4905.5" y="2410" width="1494.5" height="380" as="geometry" />
+          <mxGeometry x="4905.5" y="2410" width="1424.5" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-93" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;可编程逻辑控制器&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
           <mxGeometry x="40" y="78" width="200" height="252" as="geometry" />
