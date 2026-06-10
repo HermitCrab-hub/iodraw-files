@@ -781,7 +781,10 @@
           <mxGeometry x="628" y="265" width="211" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-168" value="消耗预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
-          <mxGeometry x="944" y="274" width="211" height="50" as="geometry" />
+          <mxGeometry x="868" y="257" width="211" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-169" value="工单下发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
+          <mxGeometry x="1133" y="254" width="211" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
