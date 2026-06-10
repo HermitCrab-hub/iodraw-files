@@ -206,7 +206,7 @@
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-1" value="现场设备群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="6760" y="650" width="332" height="802" as="geometry" />
+          <mxGeometry x="6750" y="1009" width="332" height="802" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-4" value="物流仓储设备&#xa;▸ AGV/RGV、立体库、输送机、叉车&#xa;▸ 输出：位置、状态、货物信息" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-1" vertex="1">
           <mxGeometry x="46" y="416" width="257" height="154" as="geometry" />
@@ -468,11 +468,8 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-24" value="模拟信号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-23">
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-25" value="加工数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-23">
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-25" value="数字信号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-23">
           <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-3" value="感知检测设备&#xa;▸ 温度/压力/振动传感器、扫码枪、RFID、激光雷达&#xa;▸ 输出：模拟量/数字量信号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="5390" y="1690" width="253" height="137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
