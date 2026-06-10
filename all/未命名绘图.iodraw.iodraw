@@ -205,27 +205,6 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-271" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;机器人拼图轨迹工艺参数&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" parent="1" vertex="1">
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-40" value="企业决策层系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="5230.5" y="4156" width="429" height="1381" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-43" value="OA 办公自动化&#xa;▸ 核心参数：流程ID、审批节点、待办数&#xa;▸ 数据周期：小时级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-40" vertex="1">
-          <mxGeometry x="61.47256097560975" y="383.21995630007285" width="326.9817073170732" height="119.69337217771304" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-44" value="SRM 供应商关系管理&#xa;▸ 核心参数：供应商编码、采购单号、交期&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-40" vertex="1">
-          <mxGeometry x="60.16463414634146" y="553.2046613255645" width="330.905487804878" height="119.69337217771304" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-45" value="WMS(企业级) 仓储管理&#xa;▸ 核心参数：仓库编码、库位号、库存数量&#xa;▸ 数据周期：小时级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-40" vertex="1">
-          <mxGeometry x="60.16463414634146" y="723.1893663510562" width="329.5975609756097" height="119.69337217771304" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-46" value="CRM 客户关系管理&#xa;▸ 核心参数：客户ID、销售单号、售后单号&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-40" vertex="1">
-          <mxGeometry x="61.47256097560975" y="893.1740713765478" width="326.9817073170732" height="119.69337217771304" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-47" value="BI 商业智能决策&#xa;▸ 核心参数：OEE、良品率、产能利用率&#xa;▸ 数据周期：日/周/月级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-40" vertex="1">
-          <mxGeometry x="62.78048780487805" y="1063.1587764020394" width="324.3658536585366" height="119.69337217771304" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-48" value="SCP 供应链计划协同&#xa;▸ 核心参数：需求预测、安全库存、交期达成率&#xa;▸ 数据周期：周/月级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-40" vertex="1">
-          <mxGeometry x="60.16463414634146" y="1233.143481427531" width="329.5975609756097" height="119.69337217771304" as="geometry" />
-        </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-49" value="【第5层】企业决策与管理层&#xa;战略级·非实时·T+1~T+7" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="7503" y="528" width="244" height="84" as="geometry" />
         </mxCell>
