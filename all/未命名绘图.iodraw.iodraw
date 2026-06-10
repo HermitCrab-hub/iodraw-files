@@ -438,7 +438,7 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-10" value="装配线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-2">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-11" value="数控机床" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-2">
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-2">
           <mxGeometry x="20" y="250" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
