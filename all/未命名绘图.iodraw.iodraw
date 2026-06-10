@@ -206,7 +206,7 @@
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-22" value="制造支撑系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="6438" y="3185" width="328" height="1203" as="geometry" />
+          <mxGeometry x="6452" y="2886" width="328" height="1203" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-24" value="FMS 柔性制造系统&#xa;▸ 核心参数：工单模板ID、设备利用率、换型时间&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-22" vertex="1">
           <mxGeometry x="46" y="212" width="251" height="119" as="geometry" />
@@ -739,10 +739,10 @@
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-108" value="设备管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-106">
-          <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
+          <mxGeometry x="20" y="123" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-109" value="智能资产统计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-106">
-          <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
+          <mxGeometry x="20" y="197" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-111" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;伺服驱动器&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-86">
           <mxGeometry x="1194.5" y="78" width="200" height="252" as="geometry" />
