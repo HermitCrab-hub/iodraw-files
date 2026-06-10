@@ -552,7 +552,7 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-115" value="图像采集程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-111" vertex="1">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-120" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;辅助动力设备&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-120" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;AGV调度器&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
           <mxGeometry x="740" y="78" width="200" height="252" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-121" value="空压机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-120" vertex="1">
@@ -565,6 +565,21 @@
           <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-124" value="空调系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-120" vertex="1">
+          <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-9" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;辅助动力设备&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-91">
+          <mxGeometry x="964.5" y="78" width="200" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-10" value="空压机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-9">
+          <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-11" value="水泵" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-9">
+          <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-12" value="电力系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-9">
+          <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-13" value="空调系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-9">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
