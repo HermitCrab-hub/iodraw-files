@@ -564,7 +564,7 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-123" value="电量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-120" vertex="1">
           <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-124" value="空调系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-120" vertex="1">
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-124" value="AGV控制程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-120" vertex="1">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-9" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;辅助动力设备&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-91">
