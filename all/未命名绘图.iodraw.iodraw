@@ -350,73 +350,73 @@
           <mxGeometry x="46" y="1226" width="252" height="119" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-49" value="【第5层】企业决策与管理层&#xa;战略级·非实时·T+1~T+7" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2546" y="1380" width="244" height="84" as="geometry" />
+          <mxGeometry x="4296" y="560" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-50" value="【第4层】制造运营与执行层&#xa;车间级·准实时·T+1s~T+1h" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2546" y="2283" width="244" height="84" as="geometry" />
+          <mxGeometry x="4296" y="1463" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-51" value="【第3层】边缘计算与控制层&#xa;产线级·实时·T+10ms~T+1s" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2544" y="2457" width="247" height="84" as="geometry" />
+          <mxGeometry x="4294" y="1637" width="247" height="84" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-52" value="【第2层】设备控制层&#xa;设备级·毫秒级·T+1ms~T+10ms" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2540" y="2631" width="257" height="84" as="geometry" />
+          <mxGeometry x="4290" y="1811" width="257" height="84" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-53" value="【第1层】现场设备与感知层&#xa;物理层·实时·T+0" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2546" y="2788" width="244" height="84" as="geometry" />
+          <mxGeometry x="4296" y="1968" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-54" value="下发：主计划/BOM/工艺文件/采购订单" style="curved=1;startArrow=none;endArrow=block;exitX=0.48;exitY=1;entryX=0.29;entryY=0;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-49" target="QjLCJGUDKnhB0ejbT7Qt-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2560" y="2238" />
+              <mxPoint x="4310" y="1418" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-55" value="上报：生产实绩/库存/质量/成本数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0;entryX=0.52;entryY=1;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-50" target="QjLCJGUDKnhB0ejbT7Qt-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2776" y="2238" />
+              <mxPoint x="4526" y="1418" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-56" value="下发：生产指令/工艺参数/作业任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0.29;entryY=0;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-50" target="QjLCJGUDKnhB0ejbT7Qt-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2559" y="2412" />
+              <mxPoint x="4309" y="1592" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-57" value="上报：设备状态/生产数据/质量数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0;entryX=0.71;entryY=1;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-51" target="QjLCJGUDKnhB0ejbT7Qt-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2777" y="2412" />
+              <mxPoint x="4527" y="1592" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-58" value="下发：控制指令/运动参数/IO信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0.3;entryY=0;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-51" target="QjLCJGUDKnhB0ejbT7Qt-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2561" y="2586" />
+              <mxPoint x="4311" y="1766" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-59" value="上报：传感器数据/设备运行数据/报警信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.71;entryY=1;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-52" target="QjLCJGUDKnhB0ejbT7Qt-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2775" y="2586" />
+              <mxPoint x="4525" y="1766" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-60" value="电气信号连接" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=0.36;entryY=0;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-52" target="QjLCJGUDKnhB0ejbT7Qt-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2604" y="2751" />
+              <mxPoint x="4354" y="1931" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-61" value="物理驱动与反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0;entryX=0.63;entryY=1;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-53" target="QjLCJGUDKnhB0ejbT7Qt-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2732" y="2751" />
+              <mxPoint x="4482" y="1931" />
             </Array>
           </mxGeometry>
         </mxCell>
