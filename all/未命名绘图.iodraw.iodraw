@@ -471,29 +471,20 @@
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-4" value="物流仓储设备&#xa;▸ AGV/RGV、立体库、输送机、叉车&#xa;▸ 输出：位置、状态、货物信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="5610" y="1657" width="257" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5480" y="2108" as="sourcePoint" />
-            <mxPoint x="5480" y="2140" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-34" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;感知检测设备&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="5380" y="1856" width="200" height="252" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-28" value="温度、压力、震动传感器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5400" y="1906" width="160" height="30" as="geometry" />
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-35" value="温度、压力、震动传感器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-34">
+          <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-29" value="扫码枪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5400" y="1956" width="160" height="30" as="geometry" />
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-36" value="扫码枪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-34">
+          <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-30" value="RFID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5400" y="2005" width="160" height="30" as="geometry" />
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-37" value="RFID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-34">
+          <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-31" value="激光雷达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5400" y="2056" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-32" value="模拟信号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5400" y="2190" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-33" value="数字信号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5400" y="2240" width="160" height="30" as="geometry" />
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-38" value="激光雷达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-34">
+          <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
