@@ -585,10 +585,10 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-14" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;伺服驱动器&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-91">
           <mxGeometry x="1194.5" y="78" width="200" height="252" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-15" value="输出频率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-14">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-15" value="位置偏差" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-14">
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-16" value="电流、电压" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-14">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-16" value="转速" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-14">
           <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-17" value="运行状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-14">
