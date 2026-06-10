@@ -206,7 +206,7 @@
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-13" value="边缘计算系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="7562" y="316" width="328" height="1390" as="geometry" />
+          <mxGeometry x="7462" y="2492" width="328" height="1390" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-14" value="SCADA 数据采集与监控&#xa;▸ 核心参数：IO信号值、寄存器地址、报警代码&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
           <mxGeometry x="46" y="43" width="251" height="119" as="geometry" />
