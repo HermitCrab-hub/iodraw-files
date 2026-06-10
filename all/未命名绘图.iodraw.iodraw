@@ -226,9 +226,6 @@
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-16" value="机器人健康度系统&#xa;▸ 核心参数：关节温度、振动值、负载率、剩余寿命&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
           <mxGeometry x="47" y="1085" width="252" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-20" value="边缘网关&#xa;▸ 核心参数：协议类型、数据转发率、在线状态&#xa;▸ 数据周期：秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
-          <mxGeometry x="50" y="225" width="252" height="119" as="geometry" />
-        </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-22" value="制造支撑系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="7939" y="409" width="328" height="1203" as="geometry" />
         </mxCell>
@@ -650,9 +647,6 @@
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-67" value="对接边缘计算系统群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-62">
           <mxGeometry x="719" y="58" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-68" value="机器人状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-62">
-          <mxGeometry x="897" y="58" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-70" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;机器人工艺参数调优&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
           <mxGeometry x="301" y="211" width="240" height="298" as="geometry" />
