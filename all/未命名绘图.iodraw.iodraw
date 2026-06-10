@@ -206,7 +206,7 @@
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-40" value="企业决策层系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="4761" y="4431" width="328" height="1373" as="geometry" />
+          <mxGeometry x="5313" y="4764" width="328" height="1373" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-41" value="PLM 产品全生命周期管理&#xa;▸ 核心参数：BOM版本号、变更单号、项目ID&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-40" vertex="1">
           <mxGeometry x="46" y="43" width="251" height="119" as="geometry" />
