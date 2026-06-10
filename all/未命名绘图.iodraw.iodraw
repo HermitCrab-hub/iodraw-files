@@ -504,6 +504,15 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-49" value="空调系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-45">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-50" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;输出&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-1">
+          <mxGeometry x="740" y="362" width="200" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-51" value="位置、状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-50">
+          <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-52" value="货物信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-50">
+          <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-5" value="辅助动力设备&#xa;▸ 空压机、水泵、配电柜、空调系统&#xa;▸ 输出：压力、流量、能耗数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="5860" y="1657" width="253" height="154" as="geometry" />
         </mxCell>
