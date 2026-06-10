@@ -208,12 +208,6 @@
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-40" value="企业决策层系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="5230.5" y="4156" width="429" height="1381" as="geometry" />
         </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-41" value="PLM 产品全生命周期管理&#xa;▸ 核心参数：BOM版本号、变更单号、项目ID&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-40" vertex="1">
-          <mxGeometry x="60.16463414634146" y="43.25054624908959" width="328.2896341463414" height="119.69337217771304" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-42" value="ERP 企业资源计划&#xa;▸ 核心参数：物料编码、订单号、成本中心&#xa;▸ 数据周期：日级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-40" vertex="1">
-          <mxGeometry x="60.16463414634146" y="213.23525127458123" width="329.5975609756097" height="119.69337217771304" as="geometry" />
-        </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-43" value="OA 办公自动化&#xa;▸ 核心参数：流程ID、审批节点、待办数&#xa;▸ 数据周期：小时级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-40" vertex="1">
           <mxGeometry x="61.47256097560975" y="383.21995630007285" width="326.9817073170732" height="119.69337217771304" as="geometry" />
         </mxCell>
