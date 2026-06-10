@@ -765,6 +765,9 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-162" value="涂装质量管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
           <mxGeometry x="830" y="94" width="211" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-163" value="设备与能耗管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
+          <mxGeometry x="1090" y="94" width="211" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
