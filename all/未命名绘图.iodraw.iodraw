@@ -664,10 +664,10 @@
           <mxGeometry x="20" y="50" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-83" value="产品纠错系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-81">
-          <mxGeometry x="21.5" y="100" width="197" height="30" as="geometry" />
+          <mxGeometry x="21.5" y="118" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-84" value="产品缺陷检测系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-81">
-          <mxGeometry x="19" y="174" width="198" height="30" as="geometry" />
+          <mxGeometry x="19" y="183" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-81">
           <mxGeometry x="21" y="248" width="197" height="30" as="geometry" />
