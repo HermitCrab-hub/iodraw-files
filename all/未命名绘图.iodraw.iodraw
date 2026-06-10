@@ -772,13 +772,13 @@
           <mxGeometry x="1367" y="97" width="211" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-165" value="质量分析看板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
-          <mxGeometry x="32" y="248" width="211" height="50" as="geometry" />
+          <mxGeometry x="42" y="169" width="211" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-166" value="物料辅料看板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
-          <mxGeometry x="329" y="271" width="211" height="50" as="geometry" />
+          <mxGeometry x="315" y="169" width="211" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-167" value="追溯管理（人、机、料、法、环）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
-          <mxGeometry x="628" y="265" width="211" height="50" as="geometry" />
+          <mxGeometry x="294" y="369" width="211" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-168" value="消耗预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-125">
           <mxGeometry x="868" y="257" width="211" height="50" as="geometry" />
