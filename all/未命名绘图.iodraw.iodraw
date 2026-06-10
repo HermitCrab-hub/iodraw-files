@@ -739,7 +739,7 @@
           <mxGeometry x="830" y="178" width="211" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-62" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;边缘网关&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="4639" y="2450" width="226" height="494" as="geometry" />
+          <mxGeometry x="4639" y="2422" width="226" height="1106" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-63" value="多协议类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-62">
           <mxGeometry x="27" y="58" width="160" height="30" as="geometry" />
