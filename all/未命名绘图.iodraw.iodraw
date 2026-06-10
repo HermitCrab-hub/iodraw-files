@@ -205,18 +205,6 @@
         <mxCell id="z1hF5QSPwazbQEeoPt7K-271" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;机器人拼图轨迹工艺参数&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" parent="1" vertex="1">
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-13" value="边缘计算系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="4548" y="2248" width="328" height="1390" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-18" value="产品纠错系统&#xa;▸ 核心参数：错件数、倾斜角度、治具偏差、缺陷类型&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
-          <mxGeometry x="46" y="737" width="252" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-19" value="实时数据库 InfluxDB&#xa;▸ 核心参数：数据写入速率、查询延迟、存储容量&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
-          <mxGeometry x="46" y="906" width="252" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-21" value="视觉检测系统&#xa;▸ 核心参数：识别准确率、检测速度、误检率&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
-          <mxGeometry x="46" y="1244" width="253" height="119" as="geometry" />
-        </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-22" value="制造支撑系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="7939" y="409" width="328" height="1203" as="geometry" />
         </mxCell>
@@ -667,6 +655,21 @@
           <mxGeometry x="20" y="182" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-80" value="机器人维护预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-76">
+          <mxGeometry x="21" y="248" width="197" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-81" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;机器人健康度&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="5516" y="3136" width="240" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-82" value="机器人实时数据监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-81">
+          <mxGeometry x="20" y="50" width="197" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-83" value="温度、扭矩、振动值、负载率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-81">
+          <mxGeometry x="21" y="116" width="197" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-84" value="剩余寿命预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-81">
+          <mxGeometry x="20" y="182" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-85" value="机器人维护预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-81">
           <mxGeometry x="21" y="248" width="197" height="30" as="geometry" />
         </mxCell>
       </root>
