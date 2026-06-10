@@ -421,7 +421,10 @@
           <mxGeometry x="5100" y="1768" width="1570" height="622" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-2" value="生产执行设备&#xa;▸ 工业机器人、数控机床、涂装设备、装配线&#xa;▸ 输出：运行状态、加工数据" style="whiteSpace=wrap;strokeWidth=2;" parent="Q_ooFaU4p2ys1R512pKY-1" vertex="1">
-          <mxGeometry x="56.75" y="92" width="252" height="137" as="geometry" />
+          <mxGeometry x="38" y="72" width="252" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5580" y="1770" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
