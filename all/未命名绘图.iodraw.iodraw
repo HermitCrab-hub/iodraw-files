@@ -747,7 +747,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-111" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;WMS&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-86">
           <mxGeometry x="1194.5" y="78" width="200" height="252" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-112" value="位置偏差" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-111">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-112" value="出入库管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-111">
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-113" value="转速" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-111">
