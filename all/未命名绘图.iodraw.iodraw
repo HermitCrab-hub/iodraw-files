@@ -206,7 +206,7 @@
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-30" value="MES核心执行系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="8317" y="240" width="329" height="1542" as="geometry" />
+          <mxGeometry x="8410" y="3045" width="329" height="1542" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-31" value="生产过程与报工&#xa;▸ 核心参数：工单ID、工序号、报工数量、工时&#xa;▸ 数据周期：分钟级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-30" vertex="1">
           <mxGeometry x="47" y="43" width="250" height="119" as="geometry" />
