@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ieKee9OZjVi-8Sutqdau">
-    <mxGraphModel dx="2388" dy="1452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" background="none" math="0" shadow="0">
+    <mxGraphModel dx="14330" dy="8710" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,77 +204,6 @@
         </mxCell>
         <mxCell id="z1hF5QSPwazbQEeoPt7K-271" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;机器人拼图轨迹工艺参数&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" parent="1" vertex="1">
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-49" value="【第5层】企业决策与管理层&#xa;战略级·非实时·T+1~T+7" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="7503" y="528" width="244" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-50" value="【第4层】制造运营与执行层&#xa;车间级·准实时·T+1s~T+1h" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="7503" y="1431" width="244" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-51" value="【第3层】边缘计算与控制层&#xa;产线级·实时·T+10ms~T+1s" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="7501" y="1605" width="247" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-52" value="【第2层】设备控制层&#xa;设备级·毫秒级·T+1ms~T+10ms" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="7497" y="1779" width="257" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-53" value="【第1层】现场设备与感知层&#xa;物理层·实时·T+0" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="7503" y="1936" width="244" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-54" value="下发：主计划/BOM/工艺文件/采购订单" style="curved=1;startArrow=none;endArrow=block;exitX=0.48;exitY=1;entryX=0.29;entryY=0;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-49" target="QjLCJGUDKnhB0ejbT7Qt-50" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="7517" y="1386" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-55" value="上报：生产实绩/库存/质量/成本数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0;entryX=0.52;entryY=1;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-50" target="QjLCJGUDKnhB0ejbT7Qt-49" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="7733" y="1386" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-56" value="下发：生产指令/工艺参数/作业任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0.29;entryY=0;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-50" target="QjLCJGUDKnhB0ejbT7Qt-51" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="7516" y="1560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-57" value="上报：设备状态/生产数据/质量数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0;entryX=0.71;entryY=1;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-51" target="QjLCJGUDKnhB0ejbT7Qt-50" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="7734" y="1560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-58" value="下发：控制指令/运动参数/IO信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0.3;entryY=0;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-51" target="QjLCJGUDKnhB0ejbT7Qt-52" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="7518" y="1734" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-59" value="上报：传感器数据/设备运行数据/报警信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.71;entryY=1;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-52" target="QjLCJGUDKnhB0ejbT7Qt-51" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="7732" y="1734" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-60" value="电气信号连接" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=0.36;entryY=0;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-52" target="QjLCJGUDKnhB0ejbT7Qt-53" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="7561" y="1899" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-61" value="物理驱动与反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0;entryX=0.63;entryY=1;rounded=0;" parent="1" source="QjLCJGUDKnhB0ejbT7Qt-53" target="QjLCJGUDKnhB0ejbT7Qt-52" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="7689" y="1899" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;现场设备群&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;" parent="1" vertex="1">
           <mxGeometry x="3420" y="2421" width="980" height="552" as="geometry" />
