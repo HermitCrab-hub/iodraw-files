@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ieKee9OZjVi-8Sutqdau">
-    <mxGraphModel dx="2788" dy="1452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2388" dy="1452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -801,7 +801,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-206" value="智能隐患预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-203">
           <mxGeometry x="20" y="204" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-213" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;OA&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-173">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-213" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;OA&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-173">
           <mxGeometry x="470" y="65" width="210" height="240" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-214" value="流程管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-213">
