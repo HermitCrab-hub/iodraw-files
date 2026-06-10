@@ -684,11 +684,11 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-50" value="伺服驱动程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-46">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-53" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;可编程逻辑控制器&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-53" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;中控展示系统&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
           <mxGeometry x="60" y="492" width="1280" height="105" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-56" value="逻辑控制程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-53">
-          <mxGeometry x="33" y="87" width="160" height="30" as="geometry" />
+          <mxGeometry x="27" y="58" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
