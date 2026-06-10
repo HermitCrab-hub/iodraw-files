@@ -424,7 +424,7 @@
           <mxGeometry x="5100" y="1768" width="1570" height="622" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-2" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;生产执行设备&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-1">
-          <mxGeometry x="40" y="78" width="200" height="328" as="geometry" />
+          <mxGeometry x="40" y="78" width="200" height="252" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-6" value="工业机器人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-2">
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
@@ -436,6 +436,21 @@
           <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-10" value="装配线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-2">
+          <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-12" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;生产执行设备&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="5150" y="1856" width="200" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-13" value="工业机器人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-12">
+          <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-14" value="数控机床" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-12">
+          <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-15" value="涂装设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-12">
+          <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-16" value="装配线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-12">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
