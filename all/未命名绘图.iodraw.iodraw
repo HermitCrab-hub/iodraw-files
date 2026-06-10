@@ -450,10 +450,10 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-19" value="温度、压力、震动传感器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-18">
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-20" value="数控机床" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-18">
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-20" value="扫码枪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-18">
           <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-21" value="涂装设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-18">
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-21" value="RFID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-18">
           <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-22" value="装配线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-18">
