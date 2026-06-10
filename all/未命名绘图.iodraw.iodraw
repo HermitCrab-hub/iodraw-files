@@ -206,7 +206,7 @@
           <mxGeometry x="5900" y="1440" width="365.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-1" value="现场设备群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="6750" y="1009" width="332" height="802" as="geometry" />
+          <mxGeometry x="6720" y="1093" width="332" height="802" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-5" value="辅助动力设备&#xa;▸ 空压机、水泵、配电柜、空调系统&#xa;▸ 输出：压力、流量、能耗数据" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-1" vertex="1">
           <mxGeometry x="48" y="621" width="253" height="154" as="geometry" />
@@ -494,9 +494,6 @@
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-41" value="货物信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Q_ooFaU4p2ys1R512pKY-39">
           <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-4" value="物流仓储设备&#xa;▸ AGV/RGV、立体库、输送机、叉车&#xa;▸ 输出：位置、状态、货物信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="5610" y="1657" width="257" height="154" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
