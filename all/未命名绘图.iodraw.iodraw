@@ -576,7 +576,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-3" value="扫码周期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-2">
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-4" value="加工数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-2">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-4" value="逻辑程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-2">
           <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-7" value="PLC/DCS 可编程逻辑控制器&#xa;▸ 核心参数：扫描周期、IO点数、程序步数&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
