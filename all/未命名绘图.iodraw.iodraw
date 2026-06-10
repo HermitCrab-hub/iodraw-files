@@ -654,8 +654,8 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-68" value="机器人状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-62">
           <mxGeometry x="897" y="58" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-70" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;逻辑控制器数据采集监控&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="4947" y="3136" width="240" height="298" as="geometry" />
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-70" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;机器人工艺参数调优&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
+          <mxGeometry x="301" y="211" width="240" height="298" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-71" value="PLC、SCADA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-70">
           <mxGeometry x="20" y="50" width="197" height="30" as="geometry" />
