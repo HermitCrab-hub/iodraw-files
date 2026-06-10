@@ -217,9 +217,6 @@
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-21" value="视觉检测系统&#xa;▸ 核心参数：识别准确率、检测速度、误检率&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
           <mxGeometry x="46" y="1244" width="253" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="QjLCJGUDKnhB0ejbT7Qt-16" value="机器人健康度系统&#xa;▸ 核心参数：关节温度、振动值、负载率、剩余寿命&#xa;▸ 数据周期：毫秒级" style="whiteSpace=wrap;strokeWidth=2;" parent="QjLCJGUDKnhB0ejbT7Qt-13" vertex="1">
-          <mxGeometry x="47" y="1085" width="252" height="119" as="geometry" />
-        </mxCell>
         <mxCell id="QjLCJGUDKnhB0ejbT7Qt-22" value="制造支撑系统群" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="7939" y="409" width="328" height="1203" as="geometry" />
         </mxCell>
