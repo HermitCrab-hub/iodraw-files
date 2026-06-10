@@ -622,10 +622,10 @@
           <mxGeometry x="373" y="58" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-66" value="对接设备控制群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-62">
-          <mxGeometry x="546" y="58" width="160" height="30" as="geometry" />
+          <mxGeometry x="677" y="58" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-67" value="对接边缘计算系统群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-62">
-          <mxGeometry x="719" y="58" width="160" height="30" as="geometry" />
+          <mxGeometry x="899" y="58" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-70" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;机器人工艺参数调优&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-21">
           <mxGeometry x="301" y="211" width="240" height="298" as="geometry" />
