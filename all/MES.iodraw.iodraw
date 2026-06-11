@@ -319,7 +319,7 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-89" value="能耗数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Q_ooFaU4p2ys1R512pKY-50" vertex="1">
           <mxGeometry x="20" y="130" width="160" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="Q_ooFaU4p2ys1R512pKY-91" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;设备控制系统群&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;fillColor=#FFFFFF;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="Q_ooFaU4p2ys1R512pKY-91" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;设备控制系统群&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;fillColor=#FFFFFF;strokeColor=#b85450;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="7518" y="993" width="1424.5" height="503" as="geometry" />
         </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-93" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;可编程逻辑控制器&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
@@ -415,7 +415,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#999999;rotation=-180;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
           <mxGeometry x="32.26" y="370" width="1360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-21" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;边缘计算系统群&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;" parent="1" vertex="1">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-21" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;边缘计算系统群&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="7658.75" y="1567" width="1143" height="533" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-26" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;逻辑控制器数据采集监控&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="r068ZYMnsDFPjmjOXdaQ-21" vertex="1">
