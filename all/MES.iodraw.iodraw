@@ -322,6 +322,21 @@
         <mxCell id="Q_ooFaU4p2ys1R512pKY-91" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;设备控制系统群&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="7518" y="993" width="1424.5" height="503" as="geometry" />
         </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-14" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;伺服驱动器&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
+          <mxGeometry x="1194.5" y="78" width="200" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-15" value="位置偏差" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-14" vertex="1">
+          <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-16" value="转速" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-14" vertex="1">
+          <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-17" value="扭矩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-14" vertex="1">
+          <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-18" value="伺服驱动程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="r068ZYMnsDFPjmjOXdaQ-14" vertex="1">
+          <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="Q_ooFaU4p2ys1R512pKY-93" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;可编程逻辑控制器&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
           <mxGeometry x="40" y="78" width="200" height="252" as="geometry" />
         </mxCell>
@@ -391,25 +406,10 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-12" value="运行状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-9" vertex="1">
           <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-13" value="变频控制程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="r068ZYMnsDFPjmjOXdaQ-9" vertex="1">
-          <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="X62lMqSibk61KBc5OONM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-9">
-          <mxGeometry x="124.5" y="85" width="120" height="60" as="geometry" />
+          <mxGeometry x="137.5" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-14" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;伺服驱动器&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
-          <mxGeometry x="1194.5" y="78" width="200" height="252" as="geometry" />
-        </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-15" value="位置偏差" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-14" vertex="1">
-          <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-16" value="转速" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-14" vertex="1">
-          <mxGeometry x="20" y="100" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-17" value="扭矩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-14" vertex="1">
-          <mxGeometry x="20" y="149" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-18" value="伺服驱动程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="r068ZYMnsDFPjmjOXdaQ-14" vertex="1">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-13" value="变频控制程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="r068ZYMnsDFPjmjOXdaQ-9" vertex="1">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-19" value="&lt;font color=&quot;#46827c&quot; style=&quot;font-size: 19px;&quot;&gt;毫秒级&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
@@ -417,6 +417,9 @@
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#999999;rotation=-180;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
           <mxGeometry x="32.26" y="370" width="1360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X62lMqSibk61KBc5OONM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Q_ooFaU4p2ys1R512pKY-91" source="X62lMqSibk61KBc5OONM-1" target="r068ZYMnsDFPjmjOXdaQ-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-21" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;边缘计算系统群&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="7658.75" y="1567" width="1143" height="533" as="geometry" />
