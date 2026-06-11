@@ -559,7 +559,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-108" value="设备管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-106" vertex="1">
           <mxGeometry x="20" y="123" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-109" value="智能资产统计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-106" vertex="1">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-109" value="智能资产统计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="r068ZYMnsDFPjmjOXdaQ-106" vertex="1">
           <mxGeometry x="20" y="197" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-111" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;WMS&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="r068ZYMnsDFPjmjOXdaQ-86" vertex="1">
@@ -586,7 +586,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-122" value="事故管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-120" vertex="1">
           <mxGeometry x="20" y="127" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-123" value="智能隐患预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-120" vertex="1">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-123" value="智能隐患预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="r068ZYMnsDFPjmjOXdaQ-120" vertex="1">
           <mxGeometry x="20" y="204" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-125" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;MES&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=52;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" parent="1" vertex="1">
