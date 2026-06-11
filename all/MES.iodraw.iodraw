@@ -380,7 +380,7 @@
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-9" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;变频器&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
-          <mxGeometry x="964.5" y="78" width="200" height="252" as="geometry" />
+          <mxGeometry x="964.5" y="78" width="244.5" height="252" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-10" value="输出频率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-9" vertex="1">
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
@@ -393,6 +393,9 @@
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-13" value="变频控制程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="r068ZYMnsDFPjmjOXdaQ-9" vertex="1">
           <mxGeometry x="20" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X62lMqSibk61KBc5OONM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r068ZYMnsDFPjmjOXdaQ-9">
+          <mxGeometry x="124.5" y="85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-14" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;伺服驱动器&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="Q_ooFaU4p2ys1R512pKY-91" vertex="1">
           <mxGeometry x="1194.5" y="78" width="200" height="252" as="geometry" />
