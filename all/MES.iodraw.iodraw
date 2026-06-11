@@ -466,7 +466,7 @@
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-72" value="喷图密度展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-70" vertex="1">
           <mxGeometry x="20" y="117" width="197" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r068ZYMnsDFPjmjOXdaQ-73" value="机器人轨迹自动调优" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-70" vertex="1">
+        <mxCell id="r068ZYMnsDFPjmjOXdaQ-73" value="机器人参数自动调优" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="r068ZYMnsDFPjmjOXdaQ-70" vertex="1">
           <mxGeometry x="19" y="183" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r068ZYMnsDFPjmjOXdaQ-74" value="机器人数据展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="r068ZYMnsDFPjmjOXdaQ-70" vertex="1">
