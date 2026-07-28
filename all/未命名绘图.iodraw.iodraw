@@ -10,7 +10,7 @@
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-3" value="预约模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="290" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-4" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-4" value="排产" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="290" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
