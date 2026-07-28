@@ -4,6 +4,70 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="DKdWGzbwkEOTlx0Rg6lJ-52">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=default;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="175.5" y="597" width="161" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="DKdWGzbwkEOTlx0Rg6lJ-53">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=default;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="61" y="967" width="189" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="DKdWGzbwkEOTlx0Rg6lJ-54">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=default;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="165" y="782" width="182" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="DKdWGzbwkEOTlx0Rg6lJ-55">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=default;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="290" y="967" width="161" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-56" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-52" target="DKdWGzbwkEOTlx0Rg6lJ-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205.66666666666666" y="694" />
+              <mxPoint x="125" y="732" />
+              <mxPoint x="125" y="917" />
+              <mxPoint x="110.75" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-57" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-52" target="DKdWGzbwkEOTlx0Rg6lJ-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="256" y="696" />
+              <mxPoint x="256" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-58" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-52" target="DKdWGzbwkEOTlx0Rg6lJ-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="306.33333333333337" y="694" />
+              <mxPoint x="387" y="732" />
+              <mxPoint x="387" y="917" />
+              <mxPoint x="408.25" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-59" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-54" target="DKdWGzbwkEOTlx0Rg6lJ-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="213" y="879" />
+              <mxPoint x="200.25" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-60" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-54" target="DKdWGzbwkEOTlx0Rg6lJ-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299" y="879" />
+              <mxPoint x="332.75" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
