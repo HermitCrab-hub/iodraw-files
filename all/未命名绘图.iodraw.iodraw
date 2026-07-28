@@ -27,8 +27,13 @@
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-18" target="DKdWGzbwkEOTlx0Rg6lJ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-18" target="DKdWGzbwkEOTlx0Rg6lJ-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DKdWGzbwkEOTlx0Rg6lJ-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="664" y="1366" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="956" y="1367" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-18" value="2. 资源管理核心模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="625" y="1306" width="78" height="58" as="geometry" />
@@ -55,7 +60,7 @@
           <mxGeometry x="746" y="1227" width="229" height="66" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-26" value="排产模块: 约束逻辑/工房分配/时间锁定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="1218" width="253" height="84" as="geometry" />
+          <mxGeometry x="1067" y="1251" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-27" value="外观终检: 颗粒/色差/划痕录入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1086" y="1093" width="205" height="66" as="geometry" />
