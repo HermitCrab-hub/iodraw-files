@@ -1,57 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="_uaZHX5zywixHEYIVG2r">
-    <mxGraphModel dx="1744" dy="1244" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="1244" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-2" value="涂装车间系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="582" y="146" width="490" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-3" value="预约模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="793" width="200" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-4" value="排产" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627" y="793" width="200" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-5" value="涂装" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="818" y="261" width="200" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-6" value="终检模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1061" y="260" width="200" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="726" y="789" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="678" y="678" />
-              <mxPoint x="727" y="678" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-7" value="人员管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="578" y="481" width="200" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-8" target="DKdWGzbwkEOTlx0Rg6lJ-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="466" y="676" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="933" y="676" />
-              <mxPoint x="727" y="676" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-8" value="场地管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="816" y="481" width="200" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-9" value="仓储模块/物料" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1053" y="477" width="200" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-10" value="设备管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="289" y="519" width="200" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-11" value="工艺模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="78" y="486" width="200" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-14" value="涂装车间管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1217" y="887" width="188" height="49" as="geometry" />
         </mxCell>
