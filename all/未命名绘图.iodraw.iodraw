@@ -22,7 +22,7 @@
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-7" value="人员管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="78" y="70" width="200" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-8" value="人员管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-8" value="场地管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="78" y="190" width="200" height="79" as="geometry" />
         </mxCell>
       </root>
