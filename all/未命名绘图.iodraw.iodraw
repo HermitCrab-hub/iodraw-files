@@ -13,8 +13,8 @@
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-4" value="排产" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="576" y="257" width="200" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-5" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="347" width="200" height="200" as="geometry" />
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-5" value="涂装" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="254" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
