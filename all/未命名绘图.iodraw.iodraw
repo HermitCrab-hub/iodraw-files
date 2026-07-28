@@ -35,7 +35,7 @@
           <mxGeometry x="884" y="1361" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-24" value="仓储物料: 油漆/辅料/库存/调拨/BOM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1361" width="253" height="66" as="geometry" />
+          <mxGeometry x="540" y="1541" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-25" value="预约模块: 申报/审核/优先级/锁定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="746" y="1227" width="229" height="66" as="geometry" />
