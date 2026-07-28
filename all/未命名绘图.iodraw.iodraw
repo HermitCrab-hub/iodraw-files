@@ -41,10 +41,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-8" value="场地管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="833" y="481" width="200" height="67" as="geometry" />
+          <mxGeometry x="822" y="481" width="200" height="67" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-9" value="仓储模块/物料" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="78" y="285" width="200" height="66" as="geometry" />
+          <mxGeometry x="1066" y="476" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-10" value="设备管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="78" y="381" width="200" height="66" as="geometry" />
