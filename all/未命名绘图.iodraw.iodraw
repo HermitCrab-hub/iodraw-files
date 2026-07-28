@@ -17,7 +17,7 @@
           <mxGeometry x="310" y="1111" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-18" value="2. 资源管理核心模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="636" y="1245" width="60" height="30" as="geometry" />
+          <mxGeometry x="636" y="1213" width="78" height="62" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-19" value="3. 计划调度执行模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="976" y="1111" width="60" height="30" as="geometry" />
