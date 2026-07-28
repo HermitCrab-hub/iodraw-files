@@ -1,444 +1,49 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="_uaZHX5zywixHEYIVG2r">
-    <mxGraphModel dx="2435" dy="1452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
+    <mxGraphModel dx="29220" dy="17420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="涂装车间总系统" parent="" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-92">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="125" width="102" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="涂装生产执行模块" parent="涂装车间总系统" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-93">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="191" width="114" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="成品终检质量模块" parent="涂装车间总系统" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-94">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="257" width="114" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="基础支撑子模块" parent="涂装生产执行模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-95">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="323" width="102" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="资源管理核心模块" parent="涂装生产执行模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-96">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="389" width="114" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="计划调度执行模块" parent="涂装生产执行模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-97">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="455" width="114" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（1）工艺管理模块" parent="基础支撑子模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-98">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="521" width="121" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（2）设备管理模块" parent="基础支撑子模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-99">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="587" width="121" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="涂装标准工艺库（前处理、底漆、中涂、面漆、清漆、烘干、返修工艺）" parent="（1）工艺管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-100">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="653" width="402" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="车型对应工艺版本、颜色配方、漆膜参数绑定" parent="（1）工艺管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-101">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="719" width="258" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="工艺变更记录、作业指导书管理" parent="（1）工艺管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-102">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="785" width="186" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="厂区/工房级设备台账：喷漆房、烘干房、空压机、喷涂机器人、输送链、光检灯检设备" parent="（2）设备管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-103">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="851" width="477" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="设备点检、维保计划、故障报修、停机记录、备件库存" parent="（2）设备管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-104">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="917" width="306" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（1）场地管理模块" parent="资源管理核心模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-105">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="983" width="121" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（2）人员管理模块" parent="资源管理核心模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-106">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1049" width="121" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（3）仓储 &amp; 物料管理模块" parent="资源管理核心模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-107">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1115" width="159" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="多级组织架构：总公司→多个厂区→厂区下属N个涂装工房" parent="（1）场地管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-108">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1181" width="327" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="工房属性配置：单工房容量固定=1台车辆、工房状态（空闲/占用/维修/清洁中）" parent="（1）场地管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-109">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1247" width="438" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="工房占用分配、车辆入房登记、出房释放、占用时长统计" parent="（1）场地管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-110">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1313" width="318" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="厂区产能统计：可用工房数量、最大同时可涂装台数" parent="（1）场地管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-111">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1379" width="294" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="按厂区、工房分配班组、操作工、检验员、班组长权限" parent="（2）人员管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-112">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1445" width="306" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="考勤、上岗资质、技能工种、当班排班、计件工时" parent="（2）人员管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-113">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1511" width="282" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="人员负荷校验，为排产提供人力约束" parent="（2）人员管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-114">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1577" width="210" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="按厂区划分油漆、稀释剂、辅料、耗材仓库" parent="（3）仓储 &amp; 物料管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-115">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1643" width="246" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="物料领用、消耗追溯、库存预警、BOM用料核算、废料回收" parent="（3）仓储 &amp; 物料管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-116">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1709" width="333" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="不同厂区物料调拨管理" parent="（3）仓储 &amp; 物料管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-117">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1775" width="138" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（1）预约模块" parent="计划调度执行模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-118">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1841" width="97" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（2）排产模块" parent="计划调度执行模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-119">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1907" width="97" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="外协/内部车辆涂装预约申报、预约车型、颜色、交期优先级、备注要求" parent="（1）预约模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-120">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="1973" width="393" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="预约审核、预约锁定、预约取消、逾期未到预警" parent="（1）预约模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-121">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2039" width="270" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="按预约订单排产" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-122">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2105" width="102" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="校验对应厂区空闲工房（一房一车）" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-123">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2171" width="210" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="校验当班在岗作业人员" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-124">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2237" width="138" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="绑定可用设备、对应工艺路线" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-125">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2303" width="174" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="自动分配车辆至具体厂区-具体工房" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-126">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2369" width="202" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="生成入房时间、涂装起止时间、完工计划时间" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-127">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2435" width="258" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="工房占用锁单，避免重复派车冲突" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-128">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2501" width="198" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="面漆外观终检（颗粒、流挂、色差、划痕、橘皮等缺陷录入）" parent="成品终检质量模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-129">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2567" width="342" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="漆膜性能检测：膜厚、光泽、附着力抽检记录" parent="成品终检质量模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-130">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2633" width="258" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="不良判定：合格放行/不合格返修（退回工房二次点喷）" parent="成品终检质量模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-131">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2699" width="309" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="返修复检、质检报告单、AUDIT评审、质量问题统计分析" parent="成品终检质量模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-132">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2765" width="318" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="合格车辆出库确认，流转下一工序" parent="成品终检质量模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-133">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2831" width="198" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="涂装车间总系统" parent="" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-134">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2877" width="102" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="涂装生产执行模块" parent="涂装车间总系统" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-135">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="2943" width="114" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="成品终检质量模块" parent="涂装车间总系统" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-136">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3009" width="114" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="基础支撑子模块" parent="涂装生产执行模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-137">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3075" width="102" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="资源管理核心模块" parent="涂装生产执行模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-138">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3141" width="114" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="来料检验模块" parent="涂装生产执行模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-139">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3207" width="90" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="计划调度执行模块" parent="涂装生产执行模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-140">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3273" width="114" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（1）工艺管理模块" parent="基础支撑子模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-141">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3339" width="121" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（2）设备管理模块" parent="基础支撑子模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-142">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3405" width="121" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="涂装标准工艺库（前处理、底漆、中涂、面漆、清漆、烘干、返修工艺）" parent="（1）工艺管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-143">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3471" width="402" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="车型对应工艺版本、颜色配方、漆膜参数绑定" parent="（1）工艺管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-144">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3537" width="258" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="工艺变更记录、作业指导书管理" parent="（1）工艺管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-145">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3603" width="186" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="厂区/工房级设备台账：喷漆房、烘干房、空压机、喷涂机器人、输送链、光检灯检设备" parent="（2）设备管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-146">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3669" width="477" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="设备点检、维保计划、故障报修、停机记录、备件库存" parent="（2）设备管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-147">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3735" width="306" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（1）场地管理模块" parent="资源管理核心模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-148">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3801" width="121" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（2）人员管理模块" parent="资源管理核心模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-149">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3867" width="121" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（3）仓储 &amp; 物料管理模块" parent="资源管理核心模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-150">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3933" width="159" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="多级组织架构：总公司→多个厂区→厂区下属N个涂装工房" parent="（1）场地管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-151">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="3999" width="327" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="工房属性配置：单工房容量固定=1台车辆、工房状态（空闲/占用/维修/清洁中）" parent="（1）场地管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-152">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4065" width="438" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="工房占用分配、车辆入房登记、出房释放、占用时长统计" parent="（1）场地管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-153">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4131" width="318" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="厂区产能统计：可用工房数量、最大同时可涂装台数" parent="（1）场地管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-154">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4197" width="294" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="按厂区、工房分配班组、操作工、检验员、班组长权限" parent="（2）人员管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-155">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4263" width="306" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="考勤、上岗资质、技能工种、当班排班、计件工时" parent="（2）人员管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-156">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4329" width="282" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="人员负荷校验，为排产提供人力约束" parent="（2）人员管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-157">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4395" width="210" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="按厂区划分油漆、稀释剂、辅料、耗材仓库" parent="（3）仓储 &amp; 物料管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-158">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4461" width="246" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="物料领用、消耗追溯、库存预警、BOM用料核算、废料回收" parent="（3）仓储 &amp; 物料管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-159">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4527" width="333" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="不同厂区物料调拨管理" parent="（3）仓储 &amp; 物料管理模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-160">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4593" width="138" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="车辆入厂状态确认（车型、颜色、外观缺陷初检）" parent="来料检验模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-161">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4659" width="282" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="检验合格转入排产，不合格退回或异常处理" parent="来料检验模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-162">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4725" width="246" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（1）预约模块" parent="计划调度执行模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-163">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4791" width="97" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="（2）排产模块" parent="计划调度执行模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-164">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4857" width="97" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="外协/内部车辆涂装预约申报、预约车型、颜色、交期优先级、备注要求" parent="（1）预约模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-165">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4923" width="393" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="预约审核、预约锁定、预约取消、逾期未到预警" parent="（1）预约模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-166">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="4989" width="270" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="按预约订单排产" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-167">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="5055" width="102" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="校验对应厂区空闲工房（一房一车）" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-168">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="5121" width="210" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="校验当班在岗作业人员" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-169">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="5187" width="138" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="绑定可用设备、对应工艺路线" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-170">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="5253" width="174" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="自动分配车辆至具体厂区-具体工房" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-171">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="5319" width="202" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="生成入房时间、涂装起止时间、完工计划时间" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-172">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="5385" width="258" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="工房占用锁单，避免重复派车冲突" parent="（2）排产模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-173">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="5451" width="198" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="面漆外观终检（颗粒、流挂、色差、划痕、橘皮等缺陷录入）" parent="成品终检质量模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-174">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="5517" width="342" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="漆膜性能检测：膜厚、光泽、附着力抽检记录" parent="成品终检质量模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-175">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="5583" width="258" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="不良判定：合格放行/不合格返修（退回工房二次点喷）" parent="成品终检质量模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-176">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="5649" width="309" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="返修复检、质检报告单、AUDIT评审、质量问题统计分析" parent="成品终检质量模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-177">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="5715" width="318" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="合格车辆出库确认，流转下一工序" parent="成品终检质量模块" placeholders="1" id="DKdWGzbwkEOTlx0Rg6lJ-178">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="53" y="5781" width="198" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-180" value="A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="23537" width="71" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-181" value="B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="23636" width="69" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-182" value="C" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="23636" width="70" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-183" value="D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="23734" width="70" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-184" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-180" target="DKdWGzbwkEOTlx0Rg6lJ-181">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1065" y="23611" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-185" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-180" target="DKdWGzbwkEOTlx0Rg6lJ-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1184" y="23611" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-186" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.08;entryY=0.01;rounded=0;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-181" target="DKdWGzbwkEOTlx0Rg6lJ-183">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1065" y="23709" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-187" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.92;entryY=0.01;rounded=0;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-182" target="DKdWGzbwkEOTlx0Rg6lJ-183">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1184" y="23709" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
