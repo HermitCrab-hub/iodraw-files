@@ -17,7 +17,10 @@
           <mxGeometry x="818" y="261" width="200" height="71" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-6" value="终检模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1061" y="260" width="200" height="76" as="geometry" />
+          <mxGeometry x="1061" y="260" width="200" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-7" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="277" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
