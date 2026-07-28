@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="_uaZHX5zywixHEYIVG2r">
-    <mxGraphModel dx="1287" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
+    <mxGraphModel dx="3042" dy="1584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-328" value="成品终检质量模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="6098" y="23792" width="318" height="618" as="geometry" />
+          <mxGeometry x="6234" y="22876" width="318" height="618" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-329" value="面漆外观终检" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DKdWGzbwkEOTlx0Rg6lJ-328">
           <mxGeometry x="89" y="46" width="157" height="49" as="geometry" />
