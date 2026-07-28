@@ -16,6 +16,15 @@
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-17" value="1. 基础支撑子模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="1111" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-24" target="DKdWGzbwkEOTlx0Rg6lJ-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="664" y="1541" />
+              <mxPoint x="664" y="1439" />
+              <mxPoint x="390" y="1439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-18" value="2. 资源管理核心模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="625" y="1306" width="78" height="58" as="geometry" />
         </mxCell>
