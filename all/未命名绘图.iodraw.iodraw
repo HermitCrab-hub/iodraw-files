@@ -11,10 +11,10 @@
           <mxGeometry x="351" y="260" width="200" height="73" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-4" value="排产" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="576" y="257" width="200" height="72" as="geometry" />
+          <mxGeometry x="575" y="261" width="200" height="72" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-5" value="涂装" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="254" width="200" height="200" as="geometry" />
+          <mxGeometry x="811" y="257" width="200" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
