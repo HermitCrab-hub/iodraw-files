@@ -29,10 +29,10 @@
           <mxGeometry x="373" y="1227" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-22" value="场地管理: 多厂区/多工房/单房单车/占用状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="254" y="1352" width="245" height="84" as="geometry" />
+          <mxGeometry x="267" y="1538" width="245" height="84" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-23" value="人员管理: 组织架构/权限/资质/排班" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="884" y="1361" width="245" height="66" as="geometry" />
+          <mxGeometry x="833" y="1541" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-24" value="仓储物料: 油漆/辅料/库存/调拨/BOM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="1541" width="253" height="66" as="geometry" />
