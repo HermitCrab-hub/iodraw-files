@@ -122,7 +122,7 @@
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-314" value="标准工艺库/车型配方/变更记录等" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="DKdWGzbwkEOTlx0Rg6lJ-312">
           <mxGeometry x="314" y="43" width="253" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-315" value="设备管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DKdWGzbwkEOTlx0Rg6lJ-312">
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-315" value="设备管理模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="DKdWGzbwkEOTlx0Rg6lJ-312">
           <mxGeometry x="58" y="168" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-316" value="设备台账/点检维保/故障报修等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DKdWGzbwkEOTlx0Rg6lJ-312">
