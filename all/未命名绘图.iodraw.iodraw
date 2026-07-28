@@ -175,7 +175,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-325" value="涂装车间总系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="6607" y="23036" width="172" height="49" as="geometry" />
+          <mxGeometry x="6647" y="22787" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-326" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-325" target="DKdWGzbwkEOTlx0Rg6lJ-291">
           <mxGeometry relative="1" as="geometry">
