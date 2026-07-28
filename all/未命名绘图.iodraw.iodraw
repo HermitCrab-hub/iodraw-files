@@ -116,7 +116,7 @@
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-312" value="基础支撑子模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="DKdWGzbwkEOTlx0Rg6lJ-291">
           <mxGeometry x="1322" y="104" width="609" height="253" as="geometry" />
         </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-313" value="工艺管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DKdWGzbwkEOTlx0Rg6lJ-312">
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-313" value="工艺管理模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="DKdWGzbwkEOTlx0Rg6lJ-312">
           <mxGeometry x="58" y="52" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-314" value="标准工艺库/车型配方/变更记录等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DKdWGzbwkEOTlx0Rg6lJ-312">
