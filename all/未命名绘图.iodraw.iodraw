@@ -25,6 +25,11 @@
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-7" value="人员管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="578" y="481" width="200" height="71" as="geometry" />
         </mxCell>
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="567.6666870117188" y="840.6666870117188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-8" value="场地管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="833" y="481" width="200" height="67" as="geometry" />
         </mxCell>
