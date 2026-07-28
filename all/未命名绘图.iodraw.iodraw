@@ -19,8 +19,14 @@
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-6" value="终检模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1061" y="260" width="200" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-7" target="DKdWGzbwkEOTlx0Rg6lJ-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DKdWGzbwkEOTlx0Rg6lJ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="726" y="789" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="678" y="678" />
+              <mxPoint x="727" y="678" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DKdWGzbwkEOTlx0Rg6lJ-7" value="人员管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="578" y="481" width="200" height="71" as="geometry" />
@@ -30,8 +36,7 @@
             <mxPoint x="466" y="676" as="targetPoint" />
             <Array as="points">
               <mxPoint x="933" y="676" />
-              <mxPoint x="720" y="676" />
-              <mxPoint x="720" y="793" />
+              <mxPoint x="727" y="676" />
             </Array>
           </mxGeometry>
         </mxCell>
