@@ -34,8 +34,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hrhTGPCWm1IuBHOUbgQ1-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="875" y="463" width="60" height="30" as="geometry" />
+        <mxCell id="hrhTGPCWm1IuBHOUbgQ1-15" value="双芯485" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="752" y="153" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
