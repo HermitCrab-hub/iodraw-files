@@ -19,6 +19,12 @@
         <mxCell id="hrhTGPCWm1IuBHOUbgQ1-8" value="雷达配电箱" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="309" y="534" width="122" height="135" as="geometry" />
         </mxCell>
+        <mxCell id="hrhTGPCWm1IuBHOUbgQ1-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1061" y="916" as="sourcePoint" />
+            <mxPoint x="1111" y="866" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
