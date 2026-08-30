@@ -16,8 +16,8 @@
         <mxCell id="hrhTGPCWm1IuBHOUbgQ1-7" value="电柜" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="597" width="122" height="309" as="geometry" />
         </mxCell>
-        <mxCell id="hrhTGPCWm1IuBHOUbgQ1-8" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="373" y="584" width="120" height="135" as="geometry" />
+        <mxCell id="hrhTGPCWm1IuBHOUbgQ1-8" value="雷达配电箱" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="534" width="122" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
