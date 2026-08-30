@@ -34,23 +34,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hrhTGPCWm1IuBHOUbgQ1-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="532" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hrhTGPCWm1IuBHOUbgQ1-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="532" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hrhTGPCWm1IuBHOUbgQ1-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="532" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hrhTGPCWm1IuBHOUbgQ1-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="532" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="hrhTGPCWm1IuBHOUbgQ1-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="532" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hrhTGPCWm1IuBHOUbgQ1-16" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="517" width="120" height="60" as="geometry" />
+          <mxGeometry x="875" y="463" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
