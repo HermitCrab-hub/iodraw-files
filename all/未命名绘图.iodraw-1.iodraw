@@ -7,8 +7,8 @@
         <mxCell id="hrhTGPCWm1IuBHOUbgQ1-1" value="485&amp;nbsp; &amp;nbsp; 转&amp;nbsp; &amp;nbsp; TTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="178" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hrhTGPCWm1IuBHOUbgQ1-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="702" y="407" width="80" height="80" as="geometry" />
+        <mxCell id="hrhTGPCWm1IuBHOUbgQ1-3" value="雷达" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="906" y="168" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
